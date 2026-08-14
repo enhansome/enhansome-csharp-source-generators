@@ -1,0 +1,3718 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dotnet/roslyn feature design document",
+          "description": "describing the compiler feature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-14T04:23:29Z",
+            "owner": "dotnet",
+            "repo": "roslyn",
+            "stars": 20609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotnet/roslyn cookbook",
+          "description": "to help with generator creation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-14T04:23:29Z",
+            "owner": "dotnet",
+            "repo": "roslyn",
+            "stars": 20609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotnet/roslyn-sdk samples",
+          "description": "show how to implement a source generator and use features like external package references (inside generators). Includes AutoNotify, Csv, Maths, Mustache, and SettingsXml.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-14T00:38:39Z",
+            "owner": "dotnet",
+            "repo": "roslyn-sdk",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "davidwengier/SourceGeneratorTemplate",
+          "description": "A basic template for writing a C# source generator, from the Roslyn dev.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-03-27T09:16:49Z",
+            "owner": "davidwengier",
+            "repo": "SourceGeneratorTemplate",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SourceGeneratorPlayground",
+          "description": "an online Source Generator Playground to play with generator ideas 💡 without any setup noise. Source repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-08-18T06:13:04Z",
+            "owner": "davidwengier",
+            "repo": "SourceGeneratorPlayground",
+            "stars": 151
+          }
+        }
+      ],
+      "title": "Documentation and samples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jab",
+          "description": "- Compile Time Dependency Injection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-12T18:00:31Z",
+            "owner": "pakrym",
+            "repo": "jab",
+            "stars": 1252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StrongInject",
+          "description": "- compile time dependency injection for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-30T11:38:44Z",
+            "owner": "YairHalberstadt",
+            "repo": "stronginject",
+            "stars": 868
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pure.DI",
+          "description": "- dependency injection for .NET without any IoC/DI containers, frameworks, dependencies, and thus without any performance impact and side-effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T09:43:48Z",
+            "owner": "DevTeam",
+            "repo": "Pure.DI",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Injectio",
+          "description": "- Source generator that helps register discovered services in the dependency injection container",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T07:14:39Z",
+            "owner": "loresoft",
+            "repo": "Injectio",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ServiceScan.SourceGenerator",
+          "description": "Type scanning source generator for services registrations inspired by Scrutor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T18:22:36Z",
+            "owner": "Dreamescaper",
+            "repo": "ServiceScan.SourceGenerator",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoRegisterInject",
+          "description": "Automatically generate Microsoft Dependency Injection ServiceCollection registrations for your classes from attributes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-24T06:31:17Z",
+            "owner": "patrickklaeren",
+            "repo": "AutoRegisterInject",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoCtor",
+          "description": "AutoCtor is a Roslyn Source Generator that will automatically create a constructor for your class for use with constructor Dependency Injection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-14T00:21:35Z",
+            "owner": "distantcam",
+            "repo": "AutoCtor",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SourceInject",
+          "description": "A source generator that allow you to generate your services for dependencies injection during compile time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-10-15T18:15:54Z",
+            "owner": "giggio",
+            "repo": "sourceinject",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thunderboltloc",
+          "description": "One of the very first IoC frameworks for .Net that has no reflection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-01T00:12:37Z",
+            "owner": "AlyElhaddad",
+            "repo": "ThunderboltIoc",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambdajection",
+          "description": "Framework for building AWS Lambdas using dependency injection and aspect-oriented programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T19:56:59Z",
+            "owner": "cythral",
+            "repo": "lambdajection",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DependencyManagement",
+          "description": "The Dependency Management is a very fast dependency injection and components container, with many interesting features, and without reflection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-10-31T23:44:15Z",
+            "owner": "essy-ecosystem",
+            "repo": "dependency-management",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrpcInjection",
+          "description": "- GrpcInjection is a tool that allow you to inject Services and Interceptor in time of compilation inside of GRPC Projects using C# source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-03-09T14:54:59Z",
+            "owner": "juniorporfirio",
+            "repo": "grpcinjection",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrMeeseeks.DIE",
+          "description": "An unambigous, convenient, flexible and feature rich compile time dependency injection container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T14:19:44Z",
+            "owner": "Yeah69",
+            "repo": "MrMeeseeks.DIE",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CircleDI",
+          "description": "The world only full-power circular Service Provider. It can resolve circular dependencies, has compile time safety and optimal performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-11T06:44:49Z",
+            "owner": "BlackWhiteYoshi",
+            "repo": "CircleDI",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SourceDepend",
+          "description": "Simply tag members with a attribute and those will be added to the constructor, saving you from manual coding the constructor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-15T09:50:01Z",
+            "owner": "crwsolutions",
+            "repo": "sourcedepend",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immediate.Injections",
+          "description": "- Source generated dependency injection registrations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T21:02:17Z",
+            "owner": "ImmediatePlatform",
+            "repo": "Immediate.Injections",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DependencyInjection.SourceGenerators",
+          "description": "This project is a C# source generator designed to simplify and automate the registration of dependencies in Microsoft's Dependency Injection service collection. By using this package, developers can enhance the clarity and efficiency of their code by reducing the need for manual service registration.",
+          "children": []
+        }
+      ],
+      "title": "Dependency Injection (IoC Container)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ConsoleAppFramework",
+          "description": "- Zero Dependency, Zero Overhead, Zero Reflection, Zero Allocation, AOT Safe CLI Framework powered by C# Source Generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-08T03:21:14Z",
+            "owner": "Cysharp",
+            "repo": "ConsoleAppFramework",
+            "stars": 2212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Figgle",
+          "description": "- Generate ASCII banner text at compile time (or run time) using figlet fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-06T11:43:04Z",
+            "owner": "drewnoakes",
+            "repo": "figgle",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docopt.net",
+          "description": "generates C# source code that parses command-line arguments into a strong-typed arguments class (also generated), given just the POSIX-style usage in plain text as part of the CLI. In other words, write the help message for your program and get the entire parser generated for free!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-27T17:14:28Z",
+            "owner": "docopt",
+            "repo": "docopt.net",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoSpectre",
+          "description": "Generates a service for prompting and populating a class using the Spectre.Console library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-07T09:28:46Z",
+            "owner": "jeppevammenkristensen",
+            "repo": "auto-spectre",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Console / CLI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mapster",
+          "description": "- A fast, fun and performant object to object Mapper. Has better performance and is more memorry efficient than Automapper. Besides code generation, supports also Fluent API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T09:42:34Z",
+            "owner": "MapsterMapper",
+            "repo": "Mapster",
+            "stars": 5164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mapperly",
+          "description": "- A source generator for generating object mappings. Inspired by MapStruct.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T00:30:40Z",
+            "owner": "riok",
+            "repo": "mapperly",
+            "stars": 4146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facet",
+          "description": "A source generator that instantly scaffolds DTOs, ViewModels and typed LINQ projections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T01:31:33Z",
+            "owner": "Tim-Maes",
+            "repo": "Facet",
+            "stars": 1202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facet",
+          "description": "A source generator that instantly scaffolds DTOs, ViewModels and typed LINQ projections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T01:31:33Z",
+            "owner": "Tim-Maes",
+            "repo": "Facet",
+            "stars": 1202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastCloner",
+          "description": "A source generator for deep cloning of objects with automatic reflection-based fallback for types that cannot be cloned ahead of time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-12T22:05:27Z",
+            "owner": "lofcz",
+            "repo": "FastCloner",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphQL.Tools",
+          "description": "- A GraphQL to C# compiler (code-generator) which turns your GraphQL schema into a set of C# classes, interfaces, and enums.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-09-24T21:42:25Z",
+            "owner": "MoienTajik",
+            "repo": "GraphQL.Tools",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MapTo",
+          "description": "- A convention based object to object mapper similar to Automapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-06T06:02:58Z",
+            "owner": "mrtaikandi",
+            "repo": "MapTo",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextGenMapper",
+          "description": "Easy-to-use mapper without configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-27T13:57:37Z",
+            "owner": "DedAnton",
+            "repo": "NextGenMapper",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flattening",
+          "description": "- C# source generator for generating flattened classes from complex domain classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-06-28T05:30:28Z",
+            "owner": "Kros-sk",
+            "repo": "Kros.Generators.Flattening",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoDto",
+          "description": "- A source generator that generates DTO models from BL to avoid same BL and DTO models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-01T16:26:44Z",
+            "owner": "Ohorodnikov",
+            "repo": "AutoDto",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SourceMapper",
+          "description": "- generates Mappers code based on attributes used on interfaces or abstract classes. It is inspired by Java MapStruct",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-01T19:04:17Z",
+            "owner": "alekshura",
+            "repo": "SourceMapper",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SourceMapper",
+          "description": "A source generator that creates extension methods for cloning and mapping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-09-16T11:21:09Z",
+            "owner": "paiden",
+            "repo": "SourceMapper",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MappingCloningExtensions",
+          "description": "Generates extensions of objects for mapping and cloning using either attributes or fluent style. Also, supports deep copying and specfiying whether it can do a deep copy and the possibility of doing so safely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-01T13:46:06Z",
+            "owner": "musictopia2",
+            "repo": "MappingCloningExtensions",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Mappers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CoreWCF",
+          "description": "CoreWCF provides support of WCF server side code on .NET Core / .NET6. CoreWCF allows users to inject services into implementation using a source generator to provide an implementation that fits the expected . The supplied implementation fetch services from the DI container the same way the attribute works in ASP.NET core MVC Controllers. The source generator supports both a dedicated attribute and the ASP.NET Core MVC attribute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T10:16:40Z",
+            "owner": "CoreWCF",
+            "repo": "CoreWCF",
+            "stars": 1773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imp.NET",
+          "description": "- a fast, high-level, object-oriented C# networking library that supports the invocation of remote methods through proxy interface objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-01-26T01:04:15Z",
+            "owner": "DouglasDwyer",
+            "repo": "Imp.NET",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IoTHubClientGenerator",
+          "description": "Build a C# Azure IoT Device client program in seconds!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-09T15:26:25Z",
+            "owner": "alonf",
+            "repo": "IoTHubClientGenerator",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Communication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ComputeSharp",
+          "description": "A .NET library to run C# code in parallel on the GPU through DX12 and dynamically generated HLSL compute shaders, which are transpiled from C# and precompiled at build-time using source generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T21:44:22Z",
+            "owner": "Sergio0694",
+            "repo": "ComputeSharp",
+            "stars": 3157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svg to C# Source Generators",
+          "description": "SVGC compiles SVG drawing markup to C# using SkiaSharp as rendering engine. SVGC can be also used as codegen for upcoming C# 9 Source Generator feature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T09:59:45Z",
+            "owner": "wieslawsoltes",
+            "repo": "Svg.Skia",
+            "stars": 722
+          }
+        }
+      ],
+      "title": "Graphics / Drawing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NetEscapades.EnumGenerators",
+          "description": "A source generator for generating fast \"reflection\" methods for enums",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-11T21:06:17Z",
+            "owner": "andrewlock",
+            "repo": "NetEscapades.EnumGenerators",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enum.Source.Generator",
+          "description": "A C# source generator to create an enumeration (enum) class from an enum type. With this package, you can work on enums very, very fast without using reflection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-01T01:35:50Z",
+            "owner": "EngRajabi",
+            "repo": "Enum.Source.Generator",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RapidEnum",
+          "description": "- RapidEnum is a Source Generator that provides fast-running enum utilities for C#/.NET. It is faster than the .NET API and achieves zero allocation for all methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-02T18:24:18Z",
+            "owner": "hanachiru",
+            "repo": "RapidEnum",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BetterEnums",
+          "description": "C# Enums with values and better performance as a source generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-21T02:08:51Z",
+            "owner": "Ceiridge",
+            "repo": "BetterEnums",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JOS.Enumeration",
+          "description": "Enumeration class powered by source generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-16T06:42:38Z",
+            "owner": "joseftw",
+            "repo": "jos.enumeration",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnumFastToStringDotNet",
+          "description": "- Automatically generates enum extension methods that implement a switch expression based ToString method.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-03-28T19:58:00Z",
+            "owner": "Spinnernicholas",
+            "repo": "EnumFastToStringDotNet",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnumUtilitiesGenerator",
+          "description": "- A source generator to generate compile-time mapping of enums and description attributes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-08-02T07:10:19Z",
+            "owner": "leoformaggi",
+            "repo": "enum-utilities-generator",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Credfeto.Enumeration.Source.Generation",
+          "description": "Enum to text generator for enums - generates strongly typed enums for all enums in the assembly, and using attribute for third party enums. Also includes an analyzer to ensure that all enum usages use the extension method rather than .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T15:42:51Z",
+            "owner": "credfeto",
+            "repo": "credfeto-enum-source-generation",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnumerationClassGenerator",
+          "description": "- A C# source generator to create an enumeration class from an enum type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-08-19T17:30:14Z",
+            "owner": "HamedFathi",
+            "repo": "EnumerationClassGenerator",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnumUtilities",
+          "description": "- A source generator that creates extension methods and utilities for enums with flags support, atomic operations (InterlockedAdd, InterlockedOr, etc.), and JSON converter generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:10:14Z",
+            "owner": "skarllot",
+            "repo": "EnumUtilities",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnumClass",
+          "description": "Generate Kotlin's from C# with additional features like Switch function (instead of statement). It also contains support libraries like generator for JsonConverter for generated classes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-06-09T17:48:00Z",
+            "owner": "ashenBlade",
+            "repo": "EnumClass",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastEnumGenerator",
+          "description": "An enum like generator where you create a partial class with private enum and it will generate an enum like record struct even including returning the words and a list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-01T13:42:06Z",
+            "owner": "musictopia2",
+            "repo": "FastEnumGenerator",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Enums"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Functional Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "StronglyTypedId",
+          "description": "A Rosyln-powered generator for strongly-typed IDs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-21T21:47:30Z",
+            "owner": "andrewlock",
+            "repo": "StronglyTypedId",
+            "stars": 1748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vogen",
+          "description": "C# source generator and code analyser that generates strongly typed domain identities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T21:24:04Z",
+            "owner": "SteveDunn",
+            "repo": "Vogen",
+            "stars": 1483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generator.Equals",
+          "description": "generates equality and hashing for classes and records, supports a number of strategies for comparing collections and properties.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-28T13:57:10Z",
+            "owner": "diegofrata",
+            "repo": "Generator.Equals",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WrapperValueObject",
+          "description": "- for creating simple value objects wrapping primitive types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-11-17T09:04:06Z",
+            "owner": "martinothamar",
+            "repo": "WrapperValueObject",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strongly",
+          "description": "Easily generate serializable domain value types",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-17T17:32:28Z",
+            "owner": "lucasteles",
+            "repo": "Strongly",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ValueObjectGenerator",
+          "description": "C# source generator is for ValueObjects (ie.Wrapper classes).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-11-30T12:08:05Z",
+            "owner": "RyotaMurohoshi",
+            "repo": "ValueObjectGenerator",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSCG_UtilityTypes",
+          "description": "Add Omit and Pick attributes to generate classes from existing class, like in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-06T22:32:15Z",
+            "owner": "ignatandrei",
+            "repo": "RSCG_UtilityTypes",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ComparisonOperatorsGenerator",
+          "description": "A Source Generator package that generates the , , , operators for a type (, or ) which implements .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-04T17:24:29Z",
+            "owner": "sonnemaf",
+            "repo": "ReflectionIT.ComparisonOperatorsGenerator",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Value semantic / New Type Idiom"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Immutype",
+          "description": "- generates extension methods to support immutability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-08T14:40:42Z",
+            "owner": "DevTeam",
+            "repo": "Immutype",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visor",
+          "description": "C# optics library with incremental code generator (maintained fork of suspended Tinkoff project)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-20T18:16:48Z",
+            "owner": "leviysoft",
+            "repo": "visor",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Immutability"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dunet",
+          "description": "A simple source generator for discriminated unions in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-30T18:48:33Z",
+            "owner": "domn1995",
+            "repo": "dunet",
+            "stars": 883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnyOf",
+          "description": "The Source Generator creates a type to handle multiple defined types as input parameters for methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-13T04:44:36Z",
+            "owner": "StefH",
+            "repo": "AnyOf",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotVariant",
+          "description": "A type-safe and space-efficient sum type for C# (comparable to discriminated unions in C or C++).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-30T14:55:17Z",
+            "owner": "mknejp",
+            "repo": "dotvariant",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unions",
+          "description": "for generating meaningful, efficient union types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-06T17:42:09Z",
+            "owner": "SleepWellPupper",
+            "repo": "Unions",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "N.SourceGenerators.UnionTypes",
+          "description": "Discriminated union type source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-12T15:06:32Z",
+            "owner": "Ne4to",
+            "repo": "N.SourceGenerators.UnionTypes",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Funcky Discriminated Unions",
+          "description": "A source generator that generates methods for all your discriminated unions needs. ✨ Can be used with or without the functional programming library Funcky.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-04T10:19:33Z",
+            "owner": "polyadic",
+            "repo": "funcky-discriminated-union",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatchGenerator",
+          "description": "Bring exhaustive pattern matching to C# enums and unions with zero boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T23:33:25Z",
+            "owner": "ycanardeau",
+            "repo": "MatchGenerator",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Discriminated Unions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MessagePack for C#",
+          "description": "- Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T12:00:28Z",
+            "owner": "MessagePack-CSharp",
+            "repo": "MessagePack-CSharp",
+            "stars": 6770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protobuf-net",
+          "description": "- protobuf-net is a contract based serializer for .NET code, that happens to write data in the \"protocol buffers\" serialization format engineered by Google.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-14T04:23:28Z",
+            "owner": "protobuf-net",
+            "repo": "protobuf-net",
+            "stars": 4965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpreadCheetah",
+          "description": "Create Excel files with a C# Source Generator for generating the rows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T19:02:17Z",
+            "owner": "sveinungf",
+            "repo": "spreadcheetah",
+            "stars": 700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VYaml",
+          "description": "- VYaml is a pure C# YAML 1.2 implementation, which is extra fast, low memory footprint with focued on .NET and Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-10T09:15:38Z",
+            "owner": "hadashiA",
+            "repo": "VYaml",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SerdeDn (serde-sn)",
+          "description": "is a port of the popular serde.rs Rust serialization/deserialization library to .NET. Basic cases are fully automated using a C# source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T06:18:55Z",
+            "owner": "serdedotnet",
+            "repo": "serde",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Csv-CSharp",
+          "description": "- Csv-CSharp is a highly performant CSV (TSV) parser for .NET and Unity. It is designed to parse UTF-8 binaries directly and leverage Source Generators to enable serialization/deserialization between CSV (TSV) and object arrays with zero (or very low) allocation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-09T16:19:17Z",
+            "owner": "nuskey8",
+            "repo": "Csv-CSharp",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StackXML",
+          "description": "Stack based zero-allocation XML serializer and deserializer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-29T10:46:06Z",
+            "owner": "ZingBallyhoo",
+            "repo": "StackXML",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StructPacker",
+          "description": "binary serializer that auto-generates C# serialization code to achieve peak runtime performance and efficiency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-25T15:09:34Z",
+            "owner": "RudolfKurkaMs",
+            "repo": "StructPacker",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoDeconstructable",
+          "description": "Generator for efficient and automatic flat text serializer/deserializer using Deconstructable aspect in NTP library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-09T18:27:53Z",
+            "owner": "nemesissoft",
+            "repo": "Nemesis.TextParsers",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tinyhand",
+          "description": "- Tiny and simple data format/serializer using a source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-02T14:03:21Z",
+            "owner": "archi-Doc",
+            "repo": "Tinyhand",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GenPack",
+          "description": "is a library that uses the .NET source generator to automatically generate packets as classes once you define a schema for the packets. It's easy to use and the results are useful.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-07-16T09:59:05Z",
+            "owner": "dimohy",
+            "repo": "GenPack",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSV-Parser-Generator",
+          "description": "A Parser for CSV with support for uncommon line separators (e.g. Unicode) and instantiation of read-only objects and working nullable handling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-28T14:20:59Z",
+            "owner": "LokiMidgard",
+            "repo": "CSV-Parser-Generator",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azura",
+          "description": "Generates binary [de]serializers on Streams at design time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-01-08T10:49:44Z",
+            "owner": "cyriaca",
+            "repo": "Azura",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProtobufSourceGenerator",
+          "description": "- A source generator that generates partial helper classes where member properties are attributed with ProtoMember attribute.",
+          "children": []
+        }
+      ],
+      "title": "Serialization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JsonSrcGen",
+          "description": "- compile time JSON serializer generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T11:01:32Z",
+            "owner": "trampster",
+            "repo": "JsonSrcGen",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JsonByExampleGenerator",
+          "description": "- generate classes based on example json files in your project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-10T09:36:30Z",
+            "owner": "hermanussen",
+            "repo": "JsonByExampleGenerator",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JsonPolymorphicGenerator",
+          "description": "- Source Code Generator for System.Text.Json JsonDerivedType attributes on polymorphic classes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-16T17:11:13Z",
+            "owner": "surgicalcoder",
+            "repo": "JsonPolymorphicGenerator",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeneratedJsonConverters",
+          "description": "- generate json converters for polymorph contracts and string based enum serialization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T08:28:52Z",
+            "owner": "aviationexam",
+            "repo": "json-converter-source-generator",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JsonDeserializeResourceSourceGenerator",
+          "description": "Instead of having to do embedded resource, can instead have json as additional file and it will produce a c# string and will deserialize to a type specified.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-01T13:44:05Z",
+            "owner": "musictopia2",
+            "repo": "JsonDeserializeResourceSourceGenerator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JsonSerializerContextGenerator",
+          "description": "A source generator that produces nearly the same code as system.json.text but easier to use because you only have to put an attribute for a model class you want to produce for. Also, produces a method to register to make it easy to use that source generator when serializing/deserializing json.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-01T13:44:41Z",
+            "owner": "musictopia2",
+            "repo": "JsonSerializerContextGenerator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TeuJson",
+          "description": "A Reflection-less and Lightweight Json Library using source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-02T09:00:24Z",
+            "owner": "Terria-K",
+            "repo": "TeuJson",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Json"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CacheSourceGenerator",
+          "description": "Generates an IMemoryCache wrapper around a method call.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-04-19T22:59:57Z",
+            "owner": "jeppevammenkristensen",
+            "repo": "cachesourcegenerator",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immediate.Cache",
+          "description": "- Generates cache wrappers for Immediate.Handlers handlers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T09:18:25Z",
+            "owner": "ImmediatePlatform",
+            "repo": "Immediate.Cache",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Caching"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Validly",
+          "description": "- A performant, zero-allocation, and highly customizable validation library that generates validation logic based on attributes, with usage similar to DataAnnotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-07T09:17:43Z",
+            "owner": "Hookyns",
+            "repo": "validly",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immediate.Validations",
+          "description": "- Source generated validations for easy integration with Immediate.Handlers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T17:18:02Z",
+            "owner": "ImmediatePlatform",
+            "repo": "Immediate.Validations",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Validation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ResXGenerator",
+          "description": "Generates strongly-typed resource classes for looking up localized strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-04T14:57:49Z",
+            "owner": "ycanardeau",
+            "repo": "ResXGenerator",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kli.Localize",
+          "description": "- localize strings from json files via source code generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-16T08:16:02Z",
+            "owner": "kl1mm",
+            "repo": "localize",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrMeeseeks.ResXToViewModelGenerator",
+          "description": "Takes ResX files and generates localization ViewModels for a more convenient usage of localization in MVVM projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-10T11:55:19Z",
+            "owner": "Yeah69",
+            "repo": "MrMeeseeks.ResXToViewModelGenerator",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Localization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ScenarioTests",
+          "description": "Test your code like you would write a notebook. Simply and effective",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-05T23:04:37Z",
+            "owner": "koenbeuk",
+            "repo": "ScenarioTests",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buildenator",
+          "description": "Generate data builder classes for testing purposes (and not only) for your entities. Autofixture + Moq extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-12T12:29:29Z",
+            "owner": "pmrogala",
+            "repo": "Buildenator",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentAssertions.Eventual",
+          "description": "- Generates a specialized waiting wrapper for assertions, offering a syntax similar to plain .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2025-05-05T06:52:47Z",
+            "owner": "mazharenko",
+            "repo": "FluentAssertions.Eventual",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rocks",
+          "description": "A mocking library based on the Compiler APIs (Roslyn + Mocks).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T15:03:36Z",
+            "owner": "JasonBock",
+            "repo": "Rocks",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProxyInterfaceGenerator",
+          "description": "generate an interface and a Proxy class for classes. This makes it possible to wrap external classes which do not have an interface, in a Proxy class which makes it easier to Mock and use DI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-05T15:22:51Z",
+            "owner": "StefH",
+            "repo": "ProxyInterfaceSourceGenerator",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InterfaceGenerator",
+          "description": "- Auto generate interface definition by implementation, for when you need an abstraction for the sake of mocking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-30T10:09:28Z",
+            "owner": "onsatoci",
+            "repo": "InterfaceGenerator",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GRPC-Mock-Server",
+          "description": "- A source generator for stubbing GRPC services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-15T12:50:24Z",
+            "owner": "cezarypiatek",
+            "repo": "GRPC-Mock-Server",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MockableStaticGenerator",
+          "description": "A C# source generator to make an interface and a class wrapper to test static/extension methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-09-20T17:39:55Z",
+            "owner": "HamedFathi",
+            "repo": "MockableStaticGenerator",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MockGen",
+          "description": "A C# mocking library based on source generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-18T11:29:10Z",
+            "owner": "thomas-girotto",
+            "repo": "MockGen",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MockSourceGenerator",
+          "description": "A C# mocking library that generates mocks at compile-time using a source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-02-20T20:06:39Z",
+            "owner": "hermanussen",
+            "repo": "MockSourceGenerator",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forged",
+          "description": "A fake data generation library that respects and enforces properties.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-03T06:36:45Z",
+            "owner": "Atulin",
+            "repo": "Forged",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KnockOff",
+          "description": "Source-generated mocking library with a hybrid stub+mock design. Stubs are real classes you define once and reuse across your test project, with full mock capabilities (Return, Verify, When chains) built in.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-20T21:01:43Z",
+            "owner": "NeatooDotNet",
+            "repo": "KnockOff",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Mocking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lombok.NET",
+          "description": "Generates boilerplate code and common code patterns. As the name suggests, it is the .NET version of Java's Lombok.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-16T20:50:38Z",
+            "owner": "CollinAlpert",
+            "repo": "Lombok.NET",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InlineComposition",
+          "description": "A source generator that merges the content of other classes into one class. A simple workaround for struct inheritance or multiple inheritance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-26T19:44:21Z",
+            "owner": "BlackWhiteYoshi",
+            "repo": "InlineComposition",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActorSrcGen",
+          "description": "Generates boilerplate to turn simple C# classes into TPL Dataflow compatible pipelines with robust and performant asynchronous and concurrent code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-06T00:01:25Z",
+            "owner": "aabs",
+            "repo": "ActorSrcGen",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minerals.AutoMixins",
+          "description": "Package for automatic mixin design pattern generation using an incremental source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-25T06:59:28Z",
+            "owner": "SzymonHalucha",
+            "repo": "Minerals.AutoMixins",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JinShil.MixinSourceGenerator",
+          "description": "A simple, but powerful source generator that implements the mixin design pattern by copying members—along with their attributes and XML documentation comments—verbatim from one or more source classes/structs into anaother, forming a composition of said classes/structs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-12T08:01:39Z",
+            "owner": "JinShil",
+            "repo": "JinShil.MixinSourceGenerator",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minerals.AutoCQRS",
+          "description": "NuGet package that provides interfaces for implementing the CQRS pattern (Commands, Queries, and Pipelines) along with automatic dependency injection and no MediatR package overhead.",
+          "children": []
+        }
+      ],
+      "title": "Patterns"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mediator",
+          "description": "- a high performance implementation of Mediator pattern in .NET using source generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-22T23:44:12Z",
+            "owner": "martinothamar",
+            "repo": "Mediator",
+            "stars": 3692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immediate.Handlers",
+          "description": "The fastest source generator implementation of the Mediator pattern in .NET, without using a central mediator instance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T16:18:37Z",
+            "owner": "ImmediatePlatform",
+            "repo": "Immediate.Handlers",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DumplingsDevs.Pipelines",
+          "description": "The most flexible mediation implementation in the .NET ecosystem with your own types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-20T20:42:27Z",
+            "owner": "DumplingsDevs",
+            "repo": "Pipelines",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundatio Mediator",
+          "description": "- Blazingly fast, convention-based C# mediator powered by source generators and interceptors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T17:13:17Z",
+            "owner": "FoundatioFx",
+            "repo": "Foundatio.Mediator",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MediatR controllers generator",
+          "description": "This generator generates controllers and their methods based on your MediatR requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-05-02T17:46:03Z",
+            "owner": "Burgyn",
+            "repo": "MMLib.MediatR.Generators",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Mediator"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FluentBuilder",
+          "description": "- A project which uses Source Generation to create a FluentBuilder for a specified model or DTO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-29T17:49:44Z",
+            "owner": "StefH",
+            "repo": "FluentBuilder",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M31.FluentAPI",
+          "description": "- Generate fluent APIs for your C# classes with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-21T19:08:25Z",
+            "owner": "m31coding",
+            "repo": "M31.FluentAPI",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Builder Generator",
+          "description": "Generate data builder patterns for your model classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-03T21:18:48Z",
+            "owner": "dasMulli",
+            "repo": "data-builder-generator",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StepwiseBuilderGenerator",
+          "description": "- Generate stepwise (fluent) builders effortlessly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-16T09:48:58Z",
+            "owner": "Georgiy-Petrov",
+            "repo": "StepwiseBuilderGenerator",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Builder"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "avatar",
+          "description": "A modern compile-time generated interception/proxy library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-04-20T00:16:49Z",
+            "owner": "devlooped",
+            "repo": "avatar",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DudNet",
+          "description": "A C# source generator for implementing a proxy pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-02T01:33:51Z",
+            "owner": "jwshyns",
+            "repo": "DudNet",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Proxy"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visitor.NET",
+          "description": "First-ever acyclic generic extensible typesafe implementation of Visitor pattern for .NET without any usage of dynamic cast. Implementation powered by Source Generators",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-02T21:02:08Z",
+            "owner": "Stepami",
+            "repo": "visitor-net",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrMeeseeks.Visitor",
+          "description": "Generates the boilerplate code for applications of the Visitor pattern.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-26T19:10:45Z",
+            "owner": "Yeah69",
+            "repo": "MrMeeseeks.Visitor",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Visitor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AutoInterface",
+          "description": "interface-to-member source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-16T08:40:24Z",
+            "owner": "beakona",
+            "repo": "AutoInterface",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minerals.AutoInterfaces",
+          "description": "Package for automatic interface generation using an incremental source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-26T11:01:24Z",
+            "owner": "SzymonHalucha",
+            "repo": "Minerals.AutoInterfaces",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Adapter"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Architect.DomainModeling",
+          "description": "A complete Domain-Driven Design (DDD) toolset for implementing domain models, including base types and source generators for ValueObjects, WrapperValueObjects, Entities, and Identities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-15T12:44:23Z",
+            "owner": "TheArchitectDev",
+            "repo": "Architect.DomainModeling",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AltaSoft.DomainPrimitives",
+          "description": "- A C# toolkit purposefully designed to accelerate the development of domain-specific primitives within your applications. This streamlined solution empowers developers to efficiently encapsulate fundamental domain logic. Through this toolkit, you'll significantly reduce code complexity while improving the maintainability of your project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-15T06:39:33Z",
+            "owner": "altasoft",
+            "repo": "DomainPrimitives",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minerals.AutoDomain",
+          "description": "This package provides a fast method of defining domain layer components with their specific implementation, such as aggregates, entities and domain events. Package has built-in strongly typed IDs.",
+          "children": []
+        }
+      ],
+      "title": "Domain Driven Design (DDD)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "comptime",
+          "description": "- Comptime brings meta-programming capabilities to C#, enabling compile-time code generation and evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-18T21:49:52Z",
+            "owner": "sebastienros",
+            "repo": "comptime",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gobie",
+          "description": "- Allows developers define and use custom source generation without writing any generator code themselves or learning the Roslyn APIs. Instead, devs define the generator they want, in C#, and can then use that generator throughout their project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-07T15:25:22Z",
+            "owner": "GobieGenerator",
+            "repo": "Gobie",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matryoshki",
+          "description": "Metaprogramming framework based on C# source generators. It allows you to define behaviours with adornments and generate decorators for arbitrary types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-29T19:01:37Z",
+            "owner": "krasin-ga",
+            "repo": "matryoshki",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SourceGeneratorQuery",
+          "description": "- C# SourceGenerator helper which helps you query your files, and adds LINQ support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-16T22:17:54Z",
+            "owner": "roeibajayo",
+            "repo": "SourceGeneratorQuery",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GenerateHelperLibraries",
+          "description": "A source generator where you can send any code to the client without having to do as a string. Helper for custom classes a client has to override in order to have additional features for source generators. Intended to be used from another source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-01T22:13:41Z",
+            "owner": "musictopia2",
+            "repo": "GenerateHelperLibraries",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Metaprogramming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TypedSignalR.Client",
+          "description": "C# Source Generator to create strongly typed SignalR clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-03T08:48:12Z",
+            "owner": "nenoNaninu",
+            "repo": "TypedSignalR.Client",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ridge",
+          "description": "Generates strongly-typed clients for API based on controller definition and internal application details.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-27T12:28:21Z",
+            "owner": "Melchy",
+            "repo": "Ridge",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HttpClientCodeGenerator",
+          "description": "- HttpClientGenerator is a tool that uses the Roslyn code generator feature to write boilerplate HttpClient code for you.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-16T18:54:51Z",
+            "owner": "Jalalx",
+            "repo": "HttpClientCodeGenerator",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safe-Routing",
+          "description": "Analyses a project's razor pages and MVC controllers, producing strongly-typed representations of those routes as you type",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-11T14:03:17Z",
+            "owner": "daviddotcs",
+            "repo": "safe-routing",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immediate.Apis",
+          "description": "- Generates minimal APIs bindings for Immediate.Handlers handlers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T04:43:09Z",
+            "owner": "ImmediatePlatform",
+            "repo": "Immediate.Apis",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ApiClientGenerator",
+          "description": "Generates a strongly typed HttpClient based off MVC's default routing. Can be used to output into multiple projects, like Blazor WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T12:30:07Z",
+            "owner": "surgicalcoder",
+            "repo": "ApiClientGenerator",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EndpointHelpers",
+          "description": "Generates URL helpers, link generators and redirects from controller actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-10T21:21:26Z",
+            "owner": "gumbarros",
+            "repo": "EndpointHelpers",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AjaxService.Gen",
+          "description": "- Automatically Generate typescript Ajax calls based on your C# Api endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-12T17:29:28Z",
+            "owner": "MrAliSalehi",
+            "repo": "Ajax-Service",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ControllerGenerator",
+          "description": "Automatically generate controllers from services in a web application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-29T11:19:30Z",
+            "owner": "cloud0259",
+            "repo": "ControllerGenerator",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Webprogramming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "H.NSwag.Generator",
+          "description": "- C# Source Generator for NSwag.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-10T22:12:24Z",
+            "owner": "HavenDV",
+            "repo": "H.NSwag.Generator",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SourceApi",
+          "description": "- API first Open API code generator based on json or yaml definitions. It generates base abstract controllers with docs, routes, that you inherit and implement in your controllers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-02T10:31:08Z",
+            "owner": "alekshura",
+            "repo": "SourceApi",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ST.NSwag.ServerSourceGenerator",
+          "description": "Generates Web API/ASP.NET Core controllers from a OpenAPI specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-11-22T12:10:35Z",
+            "owner": "s-tarasov",
+            "repo": "ST.NSwag.ServerSourceGenerator",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Open Api"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MiniRazor",
+          "description": "Portable Razor compiler & code generator.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-07-16T23:01:10Z",
+            "owner": "Tyrrrz",
+            "repo": "MiniRazor",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorOcticons",
+          "description": "Github Octicons created as a components using source generator. The generated components are available via the NuGet package, the generator itself is available as a separate NuGet package. The project website is an example using the generated components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-16T20:47:10Z",
+            "owner": "BlazorOcticons",
+            "repo": "BlazorOcticons",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorInteropGenerator",
+          "description": "Generates Blazor -> Javascript strongly typed interop methods, by parsing the Javascript it self and generating extension methods for IJSRuntime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-20T22:06:36Z",
+            "owner": "surgicalcoder",
+            "repo": "BlazorInteropGenerator",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor.TSRuntime",
+          "description": "An improved JSRuntime with automatic JS-module loading and caching, compile time errors instead of runtime errors and nice IntelliSense guidance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-10T07:43:10Z",
+            "owner": "BlackWhiteYoshi",
+            "repo": "Blazor.TSRuntime",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RazorPageRouteGenerator",
+          "description": "Generates methods with parameters for Razor and Blazor pages, so you can navigate without having to guess URLs or parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T19:57:57Z",
+            "owner": "surgicalcoder",
+            "repo": "RazorPageRouteGenerator",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Razor / Blazor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DependencyPropertyGenerator",
+          "description": "Dependency property and routed event source generator for WPF/UWP/WinUI/Uno/Avalonia/MAUI platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T03:35:42Z",
+            "owner": "HavenDV",
+            "repo": "DependencyPropertyGenerator",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avalonia.NameGenerator",
+          "description": "Generates typed references to named Avalonia XAML controls.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-06-28T05:42:47Z",
+            "owner": "AvaloniaUI",
+            "repo": "Avalonia.NameGenerator",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boilerplatezero",
+          "description": "WPF Dependency Property and Routed Event generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-19T21:53:42Z",
+            "owner": "IGood",
+            "repo": "boilerplatezero",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinUI-ObservableSettings",
+          "description": "- Generate boilerplates to read and write settings in packaged WinUI 3 app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-11T13:06:28Z",
+            "owner": "JasonWei512",
+            "repo": "WinUI-ObservableSettings",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "XAML / WPF / Avalonia"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PropertyChanged.SourceGenerator",
+          "description": "- Powerful INotifyPropertyChanged Source Generator, which generates INPC boilerplate for you as part of your build. Supports features such as automatic and manual dependencies between properties, notifications when specific properties change, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-02T12:46:31Z",
+            "owner": "canton7",
+            "repo": "PropertyChanged.SourceGenerator",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ValueChangedGenerator",
+          "description": "for generating PropertyChanged from inner struct members.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-07T04:42:54Z",
+            "owner": "ufcpp",
+            "repo": "ValueChangedGenerator",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "INotifyPropertyChanged"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Microsoft MVVM Toolkit",
+          "description": "A modular MVVM library with support for source generators to reduce boilrplate and improve performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-25T20:27:06Z",
+            "owner": "CommunityToolkit",
+            "repo": "dotnet",
+            "stars": 3736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MvvmGen",
+          "description": "A lightweight MVVM library for XAML applications that generates your ViewModels with a C# Source Generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-12T08:08:48Z",
+            "owner": "thomasclaudiushuber",
+            "repo": "mvvmgen",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevExpress.Mvvm.CodeGenerators",
+          "description": "Generates boilerplate code for your View Models (INotifyPropertyChanged, Commands, IDataErrorInfo, DevExpress services). Compatible with the Prism and MVVM Light libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-13T11:28:48Z",
+            "owner": "DevExpress",
+            "repo": "DevExpress.Mvvm.CodeGenerators",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Model View Viewmodel (MVVM)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MapDataReader",
+          "description": "- Fast mapping to a custom class",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-09T10:48:48Z",
+            "owner": "jitbit",
+            "repo": "MapDataReader",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SqlMarshal",
+          "description": "Native AOT friendly-performant mini-ORM. Generation of wrappers for accessing SQL using ADO.NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-14T15:44:09Z",
+            "owner": "kant2002",
+            "repo": "SqlMarshal",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Breezy",
+          "description": "Micro ORM with source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-07T14:21:03Z",
+            "owner": "Ludovicdln",
+            "repo": "Breezy",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdaskoTheBeAsT.Identity.Dapper",
+          "description": "- Custom Dapper implementation for Microsoft.Extensions.Identity.Stores (part of ASP.NET Core Identity)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-12T06:37:08Z",
+            "owner": "AdaskoTheBeAsT",
+            "repo": "AdaskoTheBeAsT.Identity.Dapper",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EntityLengths.Generator",
+          "description": "Source Generator designed to automatically generate string length constants from Entity Framework configurations and data annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-26T10:05:48Z",
+            "owner": "TarasKovalenko",
+            "repo": "EntityLengths.Generator",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daikoz.SQLWrapper",
+          "description": "Generate ADO wrapper from SQL query on MariaDB and MySQL database. SQL Query checker and keep performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2026-02-20T11:19:04Z",
+            "owner": "daikoz",
+            "repo": "SQLWrapper",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoDbSet",
+          "description": "Source Generator to automatically create properties on the from marked entities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-04T02:35:33Z",
+            "owner": "Atulin",
+            "repo": "AutoDbSet",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynatello",
+          "description": "A source generator for the low-level API of DynamoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T19:41:13Z",
+            "owner": "inputfalken",
+            "repo": "Dynatello",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TableStorage",
+          "description": "Streamlined way of working with Azure Data Tables that mimics Entity Framework's way of working with DbSets. Source Generators for the Table Entities to avoid any reflection calls being made, making it easier to use Azure Data Tables in a NativeAOT project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T12:44:52Z",
+            "owner": "LieselThuriot",
+            "repo": "TableStorage",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NpgsqlSourceGenerators",
+          "description": "Source Generator to automatically register marked enums with NpgSQL for use with PostgreSQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-27T03:59:43Z",
+            "owner": "Atulin",
+            "repo": "NpgsqlSourceGenerators",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unflat",
+          "description": "ORM for zero allocation fast parsing into complex classes/structs with custom type parsers support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-16T19:54:24Z",
+            "owner": "pstlnce",
+            "repo": "unflat",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Database / ORM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dot-env-generator",
+          "description": "A source generator for C# that turns files into runtime constants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-11-05T23:33:44Z",
+            "owner": "betwixt-labs",
+            "repo": "dot-env-generator",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NotNot.AppSettings",
+          "description": "Automatically create strongly typed C# settings objects from AppSettings.json.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2025-01-30T02:01:57Z",
+            "owner": "jasonswearingen",
+            "repo": "NotNot.AppSettings",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SourceConfig",
+          "description": "- Generates configuration POCO objects, lists, dictionaries in AOT based on *.json config files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-09T21:27:58Z",
+            "owner": "alekshura",
+            "repo": "SourceConfig",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StronglyTypedEmbeddedResources",
+          "description": "Generates strongly typed names for Embedded Resources automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-12-20T00:01:25Z",
+            "owner": "surgicalcoder",
+            "repo": "StronglyTypedEmbeddedResources",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConfigBinder",
+          "description": "Source-generated zero-reflection configuration binding for pattern, with optional validation using",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-03T10:32:13Z",
+            "owner": "Atulin",
+            "repo": "ConfigBinder",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnvVariablesGenerator",
+          "description": "Generate code from files that can be changed after build.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-03-09T17:13:10Z",
+            "owner": "KAW0",
+            "repo": "EnvVariablesGenerator",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TxtToListGenerator",
+          "description": "A source generator where if you have a text file as additional file and you have a list ordered by return carriages, then it produces either a list of int or a list of string in c#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-01T13:50:23Z",
+            "owner": "musictopia2",
+            "repo": "TxtToListGenerator",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Statically typed resources / configurations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Transplator",
+          "description": "A simple C# source generator for text templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-11-11T17:12:49Z",
+            "owner": "atifaziz",
+            "repo": "Transplator",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weave",
+          "description": "Weave is a text templating engine for .NET that is all about attention to detail. Weave handles the tricky work of making your rendered text beautiful.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-05T04:07:17Z",
+            "owner": "otac0n",
+            "repo": "Weave",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TemplatePropertyGenerator",
+          "description": "Generates strongly typed stringformatters based on Stringformats",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-09T13:27:02Z",
+            "owner": "JKamsker",
+            "repo": "JKToolkit.TemplatePropertyGenerator",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Text templating"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PolySharp",
+          "description": "Provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-25T23:24:22Z",
+            "owner": "Sergio0694",
+            "repo": "PolySharp",
+            "stars": 2217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThisAssembly",
+          "description": "Exposes project and assembly level information as constants in the ThisAssembly class.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-22T00:24:26Z",
+            "owner": "devlooped",
+            "repo": "ThisAssembly",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoFilterer.Generators",
+          "description": "AutoFilterer.Generators aims to generate filter DTOs from entities automatically via using dotnet source generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-11T08:42:33Z",
+            "owner": "enisn",
+            "repo": "AutoFilterer",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinqGen",
+          "description": "Alloc-free and fast replacement for Linq, with code generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-07T08:20:57Z",
+            "owner": "cathei",
+            "repo": "LinqGen",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmallSharp",
+          "description": "Create, edit and run multiple C# 9.0 top-level programs in the same project by just selecting the startup program from the start button.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T17:34:26Z",
+            "owner": "devlooped",
+            "repo": "SmallSharp",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastGenericNew",
+          "description": "The ultimate fast alternative to / . Built on SourceGenerator V2 (Incremental Generator).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T01:42:25Z",
+            "owner": "Nyrest",
+            "repo": "FastGenericNew",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StringLiteralGenerator",
+          "description": "for optimizing UTF-8 binaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-04T00:00:05Z",
+            "owner": "ufcpp",
+            "repo": "StringLiteralGenerator",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoLoggerMessage",
+          "description": "Automatically migrates your logging calls to the LoggerMessage (high-performance logging) version",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-12T07:56:18Z",
+            "owner": "stbychkov",
+            "repo": "AutoLoggerMessage",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutomaticInterface",
+          "description": "Generate an Interface from a class.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-23T06:43:16Z",
+            "owner": "codecentric",
+            "repo": "net_automatic_interface",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "net_automatic_interface",
+          "description": ".Net Core Source Generator for Automatic Interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-23T06:43:16Z",
+            "owner": "codecentric",
+            "repo": "net_automatic_interface",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CsCodeGenerator",
+          "description": "Easy C# class and code generation, POCO object and Methods creation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-17T15:18:16Z",
+            "owner": "borisdj",
+            "repo": "CsCodeGenerator",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrimaryConstructor",
+          "description": "Generate primary constructor from readonly fields.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-26T10:17:57Z",
+            "owner": "chaowlert",
+            "repo": "PrimaryConstructor",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloneable",
+          "description": "auto-generate Clone method.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-01T02:16:34Z",
+            "owner": "mostmand",
+            "repo": "Cloneable",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SyncMethodGenerator",
+          "description": "- Generates a synchronized method from your async code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-28T17:02:38Z",
+            "owner": "zompinc",
+            "repo": "sync-method-generator",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Durian",
+          "description": "Extends the default capabilities of C# by mimicking features from other languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-08T14:35:38Z",
+            "owner": "piotrstenke",
+            "repo": "Durian",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitsKit",
+          "description": "A C# library for efficient bit-level reading and writing also adding bit field support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-04T17:23:52Z",
+            "owner": "barncastle",
+            "repo": "BitsKit",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoConstructor",
+          "description": "C# source generator that generates a constructor from readonly fields/properties in a class or struct.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T09:29:10Z",
+            "owner": "k94ll13nn3",
+            "repo": "AutoConstructor",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartAnnotations",
+          "description": "A library that uses source generators to automatically generate data annotations for your models. It provides a strongly-typed mechanism (fluent like API) to define your annotation rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-04-12T17:16:03Z",
+            "owner": "fiseni",
+            "repo": "SmartAnnotations",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigMachines",
+          "description": "BigMachines is State Machine library for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-14T12:57:42Z",
+            "owner": "archi-Doc",
+            "repo": "BigMachines",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitBuildInfo.SourceGenerator",
+          "description": "- for dumping the git information (commit hash, branch, the head description) into assembly level metadata attributes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-04-07T22:24:22Z",
+            "owner": "Elskom",
+            "repo": "GitBuildInfo.SourceGenerator",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dolly",
+          "description": "auto-generate Clone & DeepClone method.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-16T14:25:34Z",
+            "owner": "AnderssonPeter",
+            "repo": "Dolly",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuickConstructor",
+          "description": "A reliable and feature-rich source generator that can automatically emit a constructor from the fields and properties of a class. It can also generate null checks based on nullable reference types annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-07T23:34:47Z",
+            "owner": "Flavien",
+            "repo": "quickconstructor",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoggingDecoratorGenerator",
+          "description": "Generates logger decorator class for an interface. Uses Microsoft.Extensions.Logging.ILogger to log and requires it in decorator class constructor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-08T12:04:35Z",
+            "owner": "DavidFineboym",
+            "repo": "LoggingDecoratorGenerator",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BuildInformationGenerator",
+          "description": "Adds build information, like build time, commit id and branch, as simple constants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-15T17:59:43Z",
+            "owner": "pekspro",
+            "repo": "BuildInformationGenerator",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToString",
+          "description": "- C# source generator for implementing override like type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-27T11:27:21Z",
+            "owner": "Burgyn",
+            "repo": "MMLib.ToString",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDisposableGenerator",
+          "description": "- A source generator package that implements the dispose and async dispose patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-08T20:35:56Z",
+            "owner": "Elskom",
+            "repo": "IDisposableGenerator",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hangfire.RecurringJob",
+          "description": "- Automatically generates the recurring job registration code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-25T20:58:43Z",
+            "owner": "IeuanWalker",
+            "repo": "Hangfire.RecurringJob",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoInterface",
+          "description": "AutoInterface is a source generator that generates an interface based on your class/struct. Basically, you write your class and get the corresponding interface for free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-08T14:01:02Z",
+            "owner": "BlackWhiteYoshi",
+            "repo": "AutoInterface",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoInvoke",
+          "description": "A generator that generates a method that invokes a specified generic method, for every Type in your project that satisfies a defined constraint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-06T13:51:13Z",
+            "owner": "LokiMidgard",
+            "repo": "AutoInvoke.Generator",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ValueLink",
+          "description": "A C# Library for creating and managing multiple links between objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-14T09:11:28Z",
+            "owner": "archi-Doc",
+            "repo": "ValueLink",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Navitski.Crystalized",
+          "description": "Generates domain model based on schema files. Generated model supports undo/redo, saving to/loading from SQLite and Json files, precise changes tracking and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-08T14:08:01Z",
+            "owner": "AlexNav73",
+            "repo": "CoreCraft",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrimitiveStaticDataGenerator",
+          "description": "for creating methods that return optimized static data from primitive values.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-09-22T13:24:12Z",
+            "owner": "iiweis",
+            "repo": "PrimitiveStaticDataGenerator",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrMeeseeks.StaticDelegateGenerator",
+          "description": "Makes static classes and members injectable as dependency by generating delegating interfaces and their implementing classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-06-27T18:45:34Z",
+            "owner": "Yeah69",
+            "repo": "MrMeeseeks.StaticDelegateGenerator",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lazysh",
+          "description": "Lazy implementation of any interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-02-25T13:35:11Z",
+            "owner": "B1Z0N",
+            "repo": "LazyshGen",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrintMembersGenerator",
+          "description": "helps re-defining C# record's PrintMembers method to force include/exclude certain members.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-09-25T21:59:54Z",
+            "owner": "Youssef1313",
+            "repo": "PrintMembersGenerator",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemberAccessGenerator",
+          "description": "generates and/or methods that return property value for a given property name or index (e.g. in positional records).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-07-10T13:26:27Z",
+            "owner": "ufcpp",
+            "repo": "MemberAccessGenerator",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TupleOverloadGenerator",
+          "description": "- Overload array parameter with tuples avoiding heap allocations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-10-17T21:16:55Z",
+            "owner": "ProphetLamb",
+            "repo": "TupleOverloadGenerator",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AssemblyVersionInfo",
+          "description": "AssemblyVersionInfo is a very simple source generator that generates constant strings of your assembly name and version. The intended usage is for the System.CodeDom.Compiler.GeneratedCodeAttribute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-13T10:02:21Z",
+            "owner": "BlackWhiteYoshi",
+            "repo": "AssemblyVersionInfo",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Credfeto.Version.Information.Generator",
+          "description": "Minimal source generator for embedding build information as compile time constants. Constants added to class in each assembly for , , and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T15:44:26Z",
+            "owner": "credfeto",
+            "repo": "credfeto-version-constants-generator",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fairy",
+          "description": "generates C# code based on Sitecore Content Serialization (SCS) files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-31T16:15:56Z",
+            "owner": "hermanussen",
+            "repo": "Fairy",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataAnnotationValuesExtractor",
+          "description": "Extracts values from data annotation attributes, like maximum string length, and exposes them as strongly-typed constants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-15T18:30:00Z",
+            "owner": "pekspro",
+            "repo": "DataAnnotationValuesExtractor",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DisposeGenerator",
+          "description": "- a Source Generator for Generating the Dispose functions in Disposables. All you have to do is mark them with attributes and it will work from there.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-14T09:04:42Z",
+            "owner": "sonnemaf",
+            "repo": "ReflectionIT.DisposeGenerator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PropertyThrowGenerator",
+          "description": "- source generator that adds validation to partial properties annotated with attributes. The generated setters call the appropriate helper methods before assigning the value. Also supports MVVM .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-02T09:20:31Z",
+            "owner": "sonnemaf",
+            "repo": "ReflectionIT.PropertyThrowGenerator",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tenekon.MethodOverloads.SourceGenerator",
+          "description": "- A C# source generator that creates combinatorial extension method overloads by treating a selected parameter window as optional and emitting legal, unique subsequences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-09T10:34:18Z",
+            "owner": "tenekon",
+            "repo": "Tenekon.MethodOverloads.SourceGenerator",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SourceGeneratorUtils",
+          "description": "An essential library equipped with utility functions and helpers to aid in writing source files for source generators or for general purposes. Based on the source generator architecture for best-practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-20T00:09:08Z",
+            "owner": "thenameless314159",
+            "repo": "SourceGeneratorUtils",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CommonSourceGeneratorsHelpers",
+          "description": "A generator to create many helpers for source generators to use to make up that its very difficult to reference third party libraries in source generators including extensions and a source code string builder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-09T14:40:18Z",
+            "owner": "musictopia2",
+            "repo": "CommonSourceGeneratorsHelpers",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SourceGenerator.Helper.CopyCode",
+          "description": "- A simple Generator that generates a string representation to an annotated Type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-09T10:39:25Z",
+            "owner": "LokiMidgard",
+            "repo": "SourceGenerator.Helper.CopyCode",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HotReload",
+          "description": "- A simple hack to enable hot reload in Visual Studio Intellisense when developing a source generator project together with an example dependent client project inside a single solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-22T00:10:44Z",
+            "owner": "andrzejolszak",
+            "repo": "BuilderGeneratorHotReload",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AttributesSourceGeneratorHelper",
+          "description": "A source generator to help another generator by producing attributes. Anything that inherits from Attribute will be sent to the client so you don't have to build strings for attributes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-30T01:59:01Z",
+            "owner": "musictopia2",
+            "repo": "AttributesSourceGeneratorHelper",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AttributeFactoryGenerator",
+          "description": "- Generate factories to easily parse actual attribute instances from symbol data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-22T15:23:50Z",
+            "owner": "SleepWellPupper",
+            "repo": "AttributeFactoryGenerator",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Meta - libs and generators for other generators"
+    },
+    {
+      "description": "Collection of tips and tricks (simple and brief to fit in Tweet):\nTweeted by @raboof on May 25 2021 at 23:00:\nTweeted by @raboof on Nov 16 2020 at 20:57:\nTweeted by @Chiser99 on Sep 02 2020 at 06:41:\nBuild failed in WPF projects microsoft/CsWin32#7:\nReference local projects or embed NuGet packages to source generator assemblies dotnet/roslyn#47517:\n⚠ Please be aware that this may result in crashes, when another generator or SDK component loads such an assembly with lower version. If you can, please avoid embedding additional DLLs/packages.",
+      "items": [],
+      "title": "Tips & Tricks"
+    },
+    {
+      "description": "Maybe they can inspire you too!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DpdtInject",
+          "description": "DI container based on C# Source Generators. Its goal is to remove everything possible from runtime and make resolving process as faster as we can. This is achieved by transferring huge piece of resolving logic to the compilation stage into the source generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-06-23T04:32:04Z",
+            "owner": "lsoft",
+            "repo": "DpdtInject",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compile Time Method Execution Generator",
+          "description": "proof of concept that allows executing a method during compilation, so that it can be really fast during runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-11-10T16:42:53Z",
+            "owner": "hermanussen",
+            "repo": "CompileTimeMethodExecutionGenerator",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jakubsturc/talk-csharp-source-generators",
+          "description": "contains 4 generators: AutoNotify, ConsoleWritelineHijack, HelloWorld and SettingsXml, plus nice presentation slides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-15T16:45:48Z",
+            "owner": "jakubsturc",
+            "repo": "talk-csharp-source-generators",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RyanAlameddine/SourceGeneratorDemo",
+          "description": "contains 3 demos: hello world, INPC and OpCode class.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-07-27T15:10:37Z",
+            "owner": "RyanAlameddine",
+            "repo": "SourceGeneratorDemo",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TMC-CSharp/CodeExerciseLibrary",
+          "description": "Library to help creating C# exercises. Generates missing methods and classes inside tests on the fly by using Source Generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-12-14T12:47:01Z",
+            "owner": "TMC-CSharp",
+            "repo": "CodeExerciseLibrary",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Demo, PoC and excercise projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RestEase",
+          "description": "uses Source Generator to generate interface implementations on compile time instead of in runtime via Reflection.Emit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-10T14:55:20Z",
+            "owner": "canton7",
+            "repo": "RestEase",
+            "stars": 1117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetFabric.Hyperlinq",
+          "description": "generates overloads for its extension methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-14T09:36:43Z",
+            "owner": "NetFabric",
+            "repo": "NetFabric.Hyperlinq",
+            "stars": 902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HydraScript",
+          "description": "TypeScript & Go inspired small interpreted programming language written in C# that uses Source Generator to build large regular expression for lexical analysis. The regex value is passed to attribute, so this internal generator generates the input for another generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T12:33:44Z",
+            "owner": "Stepami",
+            "repo": "hydrascript",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WarHub/wham",
+          "description": "generates code for immutable tree object graph based on red-green node approach used in Roslyn; generates custom XmlSerializer that supports C#9 records and ImmutableArray.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T02:47:06Z",
+            "owner": "WarHub",
+            "repo": "wham",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroicons.AspNetCore",
+          "description": "Heroicons that are easy to use in ASP.NET Core MVC as TagHelpers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-12T08:21:10Z",
+            "owner": "tompazourek",
+            "repo": "Heroicons.AspNetCore",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elskom/Sdk",
+          "description": "Dumps git repository data to assembly level metadata attributes that can be checked at runtime for things like trapping if a user is using an possibly unstable build of the libraries built in the repository and so the user can see a message about it (and optionally opt into running the possibly unstable code).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-01T21:01:44Z",
+            "owner": "Elskom",
+            "repo": "Sdk",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Projects using custom Source Generators \"internally\""
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:30:49.493Z",
+    "original_repository": "amis92/csharp-source-generators",
+    "original_repository_sha": "9b17400fe77753cec80e59acbae181afe27e0ec5",
+    "enhanced_repository": "enhansome/enhansome-csharp-source-generators",
+    "enhanced_repository_description": null,
+    "title": "Awesome C# Source Generators with stars"
+  }
+}
