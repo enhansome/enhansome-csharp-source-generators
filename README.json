@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T04:23:29Z",
+            "last_commit": "2026-08-15T02:03:29Z",
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20609
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T04:23:29Z",
+            "last_commit": "2026-08-15T02:03:29Z",
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20609
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T00:38:39Z",
+            "last_commit": "2026-08-14T16:33:44Z",
             "owner": "dotnet",
             "repo": "roslyn-sdk",
             "stars": 545
@@ -90,7 +90,7 @@
             "last_commit": "2025-09-12T18:00:31Z",
             "owner": "pakrym",
             "repo": "jab",
-            "stars": 1252
+            "stars": 1253
           }
         },
         {
@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T09:43:48Z",
+            "last_commit": "2026-08-14T15:25:04Z",
             "owner": "DevTeam",
             "repo": "Pure.DI",
-            "stars": 835
+            "stars": 837
           }
         },
         {
@@ -171,7 +171,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T00:21:35Z",
+            "last_commit": "2026-08-15T02:24:10Z",
             "owner": "distantcam",
             "repo": "AutoCtor",
             "stars": 113
@@ -297,7 +297,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-07T21:02:17Z",
+            "last_commit": "2026-08-14T20:56:07Z",
             "owner": "ImmediatePlatform",
             "repo": "Immediate.Injections",
             "stars": 2
@@ -388,7 +388,7 @@
             "last_commit": "2026-08-10T09:42:34Z",
             "owner": "MapsterMapper",
             "repo": "Mapster",
-            "stars": 5164
+            "stars": 5162
           }
         },
         {
@@ -416,7 +416,7 @@
             "last_commit": "2026-08-10T01:31:33Z",
             "owner": "Tim-Maes",
             "repo": "Facet",
-            "stars": 1202
+            "stars": 1201
           }
         },
         {
@@ -430,7 +430,7 @@
             "last_commit": "2026-08-10T01:31:33Z",
             "owner": "Tim-Maes",
             "repo": "Facet",
-            "stars": 1202
+            "stars": 1201
           }
         },
         {
@@ -638,7 +638,7 @@
             "last_commit": "2026-08-12T09:59:45Z",
             "owner": "wieslawsoltes",
             "repo": "Svg.Skia",
-            "stars": 722
+            "stars": 721
           }
         }
       ],
@@ -658,7 +658,7 @@
             "last_commit": "2026-05-11T21:06:17Z",
             "owner": "andrewlock",
             "repo": "NetEscapades.EnumGenerators",
-            "stars": 1122
+            "stars": 1123
           }
         },
         {
@@ -837,7 +837,7 @@
             "last_commit": "2025-02-21T21:47:30Z",
             "owner": "andrewlock",
             "repo": "StronglyTypedId",
-            "stars": 1748
+            "stars": 1749
           }
         },
         {
@@ -851,7 +851,7 @@
             "last_commit": "2026-08-07T21:24:04Z",
             "owner": "SteveDunn",
             "repo": "Vogen",
-            "stars": 1483
+            "stars": 1484
           }
         },
         {
@@ -1090,7 +1090,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-07T12:00:28Z",
+            "last_commit": "2026-08-14T07:14:51Z",
             "owner": "MessagePack-CSharp",
             "repo": "MessagePack-CSharp",
             "stars": 6770
@@ -1104,7 +1104,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T04:23:28Z",
+            "last_commit": "2026-08-14T22:27:14Z",
             "owner": "protobuf-net",
             "repo": "protobuf-net",
             "stars": 4965
@@ -1135,7 +1135,7 @@
             "last_commit": "2026-07-10T09:15:38Z",
             "owner": "hadashiA",
             "repo": "VYaml",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -1326,7 +1326,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T08:28:52Z",
+            "last_commit": "2026-08-14T23:14:01Z",
             "owner": "aviationexam",
             "repo": "json-converter-source-generator",
             "stars": 5
@@ -1780,7 +1780,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-07T16:18:37Z",
+            "last_commit": "2026-08-14T10:14:13Z",
             "owner": "ImmediatePlatform",
             "repo": "Immediate.Handlers",
             "stars": 197
@@ -2837,7 +2837,7 @@
             "last_commit": "2026-05-25T23:24:22Z",
             "owner": "Sergio0694",
             "repo": "PolySharp",
-            "stars": 2217
+            "stars": 2218
           }
         },
         {
@@ -2848,7 +2848,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-07-22T00:24:26Z",
+            "last_commit": "2026-08-14T14:24:22Z",
             "owner": "devlooped",
             "repo": "ThisAssembly",
             "stars": 532
@@ -3630,7 +3630,7 @@
             "last_commit": "2023-12-10T14:55:20Z",
             "owner": "canton7",
             "repo": "RestEase",
-            "stars": 1117
+            "stars": 1116
           }
         },
         {
@@ -3708,7 +3708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:30:49.493Z",
+    "last_updated": "2026-08-15T03:25:39.539Z",
     "original_repository": "amis92/csharp-source-generators",
     "original_repository_sha": "9b17400fe77753cec80e59acbae181afe27e0ec5",
     "enhanced_repository": "enhansome/enhansome-csharp-source-generators",
