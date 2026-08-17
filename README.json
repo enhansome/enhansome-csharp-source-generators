@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T02:03:10Z",
+            "last_commit": "2026-08-16T22:50:50Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20608
+            "stars": 20612
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T02:03:10Z",
+            "last_commit": "2026-08-16T22:50:50Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20608
+            "stars": 20612
           }
         },
         {
@@ -413,7 +413,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-10T01:31:33Z",
+            "last_commit": "2026-08-17T01:40:24Z",
             "owner": "Tim-Maes",
             "repo": "Facet",
             "stars": 1202
@@ -427,7 +427,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-10T01:31:33Z",
+            "last_commit": "2026-08-17T01:40:24Z",
             "owner": "Tim-Maes",
             "repo": "Facet",
             "stars": 1202
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-13T21:44:22Z",
             "owner": "Sergio0694",
             "repo": "ComputeSharp",
-            "stars": 3158
+            "stars": 3157
           }
         },
         {
@@ -686,7 +686,7 @@
             "last_commit": "2026-08-16T01:16:42Z",
             "owner": "hanachiru",
             "repo": "RapidEnum",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -986,10 +986,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-07-30T18:48:33Z",
+            "last_commit": "2026-08-17T02:20:56Z",
             "owner": "domn1995",
             "repo": "dunet",
-            "stars": 883
+            "stars": 882
           }
         },
         {
@@ -1104,7 +1104,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T21:17:18Z",
+            "last_commit": "2026-08-16T21:41:04Z",
             "owner": "protobuf-net",
             "repo": "protobuf-net",
             "stars": 4965
@@ -1146,7 +1146,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T06:18:55Z",
+            "last_commit": "2026-08-16T16:34:22Z",
             "owner": "serdedotnet",
             "repo": "serde",
             "stars": 216
@@ -1436,7 +1436,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T17:18:02Z",
+            "last_commit": "2026-08-17T01:32:07Z",
             "owner": "ImmediatePlatform",
             "repo": "Immediate.Validations",
             "stars": 17
@@ -1552,7 +1552,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-07-17T15:03:36Z",
+            "last_commit": "2026-08-16T16:14:59Z",
             "owner": "JasonBock",
             "repo": "Rocks",
             "stars": 389
@@ -1769,7 +1769,7 @@
             "last_commit": "2026-03-22T23:44:12Z",
             "owner": "martinothamar",
             "repo": "Mediator",
-            "stars": 3691
+            "stars": 3693
           }
         },
         {
@@ -2378,7 +2378,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-03T03:35:42Z",
+            "last_commit": "2026-08-17T03:35:31Z",
             "owner": "HavenDV",
             "repo": "DependencyPropertyGenerator",
             "stars": 154
@@ -2477,7 +2477,7 @@
             "last_commit": "2026-03-25T20:27:06Z",
             "owner": "CommunityToolkit",
             "repo": "dotnet",
-            "stars": 3735
+            "stars": 3738
           }
         },
         {
@@ -2848,7 +2848,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T14:24:22Z",
+            "last_commit": "2026-08-17T00:07:52Z",
             "owner": "devlooped",
             "repo": "ThisAssembly",
             "stars": 532
@@ -2890,7 +2890,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-07T17:34:26Z",
+            "last_commit": "2026-08-17T00:18:22Z",
             "owner": "devlooped",
             "repo": "SmallSharp",
             "stars": 308
@@ -3644,7 +3644,7 @@
             "last_commit": "2024-02-14T09:36:43Z",
             "owner": "NetFabric",
             "repo": "NetFabric.Hyperlinq",
-            "stars": 902
+            "stars": 901
           }
         },
         {
@@ -3669,7 +3669,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T02:47:06Z",
+            "last_commit": "2026-08-17T02:51:14Z",
             "owner": "WarHub",
             "repo": "wham",
             "stars": 21
@@ -3708,7 +3708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:34:50.437Z",
+    "last_updated": "2026-08-17T03:35:54.796Z",
     "original_repository": "amis92/csharp-source-generators",
     "original_repository_sha": "9b17400fe77753cec80e59acbae181afe27e0ec5",
     "enhanced_repository": "enhansome/enhansome-csharp-source-generators",
