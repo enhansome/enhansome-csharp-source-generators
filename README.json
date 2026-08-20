@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-19T10:22:35Z",
+            "last_commit": "2026-08-20T02:38:38Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20614
+            "stars": 20615
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-19T10:22:35Z",
+            "last_commit": "2026-08-20T02:38:38Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20614
+            "stars": 20615
           }
         },
         {
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 512087796,
                 "language": "C#",
-                "last_commit": "2026-08-18T23:55:50Z",
+                "last_commit": "2026-08-19T23:55:53Z",
                 "owner": "distantcam",
                 "repo": "AutoCtor",
                 "stars": 113
@@ -409,10 +409,10 @@
                 "archived": false,
                 "id": 20342794,
                 "language": "C#",
-                "last_commit": "2026-08-10T09:42:34Z",
+                "last_commit": "2026-08-19T13:00:46Z",
                 "owner": "MapsterMapper",
                 "repo": "Mapster",
-                "stars": 5162
+                "stars": 5164
               }
             },
             {
@@ -427,7 +427,7 @@
                 "last_commit": "2026-08-17T18:49:13Z",
                 "owner": "riok",
                 "repo": "mapperly",
-                "stars": 4146
+                "stars": 4149
               }
             },
             {
@@ -805,7 +805,7 @@
                 "archived": false,
                 "id": 562318498,
                 "language": "C#",
-                "last_commit": "2026-08-10T15:42:51Z",
+                "last_commit": "2026-08-20T00:06:33Z",
                 "owner": "credfeto",
                 "repo": "credfeto-enum-source-generation",
                 "stars": 22
@@ -835,7 +835,7 @@
                 "archived": false,
                 "id": 583909039,
                 "language": "C#",
-                "last_commit": "2026-08-13T03:10:14Z",
+                "last_commit": "2026-08-20T02:03:19Z",
                 "owner": "skarllot",
                 "repo": "EnumUtilities",
                 "stars": 18
@@ -1053,7 +1053,7 @@
                     "archived": false,
                     "id": 498053098,
                     "language": "C#",
-                    "last_commit": "2026-08-19T01:54:56Z",
+                    "last_commit": "2026-08-20T01:00:27Z",
                     "owner": "domn1995",
                     "repo": "dunet",
                     "stars": 882
@@ -1173,7 +1173,7 @@
                 "last_commit": "2026-08-14T07:14:51Z",
                 "owner": "MessagePack-CSharp",
                 "repo": "MessagePack-CSharp",
-                "stars": 6772
+                "stars": 6773
               }
             },
             {
@@ -1185,7 +1185,7 @@
                 "archived": false,
                 "id": 20878802,
                 "language": "C#",
-                "last_commit": "2026-08-19T12:21:09Z",
+                "last_commit": "2026-08-20T03:23:07Z",
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
                 "stars": 4968
@@ -1218,7 +1218,7 @@
                 "last_commit": "2026-07-10T09:15:38Z",
                 "owner": "hadashiA",
                 "repo": "VYaml",
-                "stars": 474
+                "stars": 475
               }
             },
             {
@@ -1412,7 +1412,7 @@
                     "archived": false,
                     "id": 696463074,
                     "language": "C#",
-                    "last_commit": "2026-08-19T08:08:44Z",
+                    "last_commit": "2026-08-19T14:12:49Z",
                     "owner": "aviationexam",
                     "repo": "json-converter-source-generator",
                     "stars": 5
@@ -1657,7 +1657,7 @@
                     "archived": false,
                     "id": 30542524,
                     "language": "C#",
-                    "last_commit": "2026-08-19T12:16:05Z",
+                    "last_commit": "2026-08-19T12:55:02Z",
                     "owner": "JasonBock",
                     "repo": "Rocks",
                     "stars": 389
@@ -1884,7 +1884,7 @@
                     "last_commit": "2026-03-22T23:44:12Z",
                     "owner": "martinothamar",
                     "repo": "Mediator",
-                    "stars": 3694
+                    "stars": 3695
                   }
                 },
                 {
@@ -2643,7 +2643,7 @@
                     "last_commit": "2026-03-25T20:27:06Z",
                     "owner": "CommunityToolkit",
                     "repo": "dotnet",
-                    "stars": 3739
+                    "stars": 3740
                   }
                 },
                 {
@@ -3048,7 +3048,7 @@
                 "archived": false,
                 "id": 295828621,
                 "language": "C#",
-                "last_commit": "2026-08-17T14:32:55Z",
+                "last_commit": "2026-08-20T00:08:29Z",
                 "owner": "devlooped",
                 "repo": "ThisAssembly",
                 "stars": 532
@@ -3093,7 +3093,7 @@
                 "archived": false,
                 "id": 300154250,
                 "language": "C#",
-                "last_commit": "2026-08-17T00:18:22Z",
+                "last_commit": "2026-08-20T00:17:46Z",
                 "owner": "devlooped",
                 "repo": "SmallSharp",
                 "stars": 308
@@ -3156,22 +3156,7 @@
                 "last_commit": "2026-04-23T06:43:16Z",
                 "owner": "codecentric",
                 "repo": "net_automatic_interface",
-                "stars": 115
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "CsCodeGenerator",
-              "description": "Easy C# class and code generation, POCO object and Methods creation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 82320174,
-                "language": "C#",
-                "last_commit": "2025-03-17T15:18:16Z",
-                "owner": "borisdj",
-                "repo": "CsCodeGenerator",
-                "stars": 115
+                "stars": 116
               }
             },
             {
@@ -3186,6 +3171,21 @@
                 "last_commit": "2026-04-23T06:43:16Z",
                 "owner": "codecentric",
                 "repo": "net_automatic_interface",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CsCodeGenerator",
+              "description": "Easy C# class and code generation, POCO object and Methods creation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82320174,
+                "language": "C#",
+                "last_commit": "2025-03-17T15:18:16Z",
+                "owner": "borisdj",
+                "repo": "CsCodeGenerator",
                 "stars": 115
               }
             },
@@ -3231,7 +3231,7 @@
                 "last_commit": "2026-07-28T17:02:38Z",
                 "owner": "zompinc",
                 "repo": "sync-method-generator",
-                "stars": 83
+                "stars": 84
               }
             },
             {
@@ -3603,7 +3603,7 @@
                 "archived": false,
                 "id": 873588553,
                 "language": "C#",
-                "last_commit": "2026-08-10T15:44:26Z",
+                "last_commit": "2026-08-20T01:03:43Z",
                 "owner": "credfeto",
                 "repo": "credfeto-version-constants-generator",
                 "stars": 4
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:09.853Z",
+    "last_updated": "2026-08-20T03:33:18.007Z",
     "original_repository": "amis92/csharp-source-generators",
     "original_repository_id": 302673564,
     "original_repository_sha": "9b17400fe77753cec80e59acbae181afe27e0ec5",
