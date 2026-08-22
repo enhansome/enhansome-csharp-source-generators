@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-21T03:27:08Z",
+            "last_commit": "2026-08-22T02:02:10Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20615
+            "stars": 20617
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-21T03:27:08Z",
+            "last_commit": "2026-08-22T02:02:10Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20615
+            "stars": 20617
           }
         },
         {
@@ -98,7 +98,7 @@
                 "last_commit": "2025-09-12T18:00:31Z",
                 "owner": "pakrym",
                 "repo": "jab",
-                "stars": 1255
+                "stars": 1256
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-15T09:33:13Z",
                 "owner": "DevTeam",
                 "repo": "Pure.DI",
-                "stars": 837
+                "stars": 838
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2026-08-20T08:52:11Z",
                 "owner": "MapsterMapper",
                 "repo": "Mapster",
-                "stars": 5165
+                "stars": 5162
               }
             },
             {
@@ -427,7 +427,7 @@
                 "last_commit": "2026-08-17T18:49:13Z",
                 "owner": "riok",
                 "repo": "mapperly",
-                "stars": 4150
+                "stars": 4151
               }
             },
             {
@@ -439,7 +439,7 @@
                 "archived": false,
                 "id": 970951585,
                 "language": "C#",
-                "last_commit": "2026-08-17T01:40:24Z",
+                "last_commit": "2026-08-21T13:04:18Z",
                 "owner": "Tim-Maes",
                 "repo": "Facet",
                 "stars": 1203
@@ -454,7 +454,7 @@
                 "archived": false,
                 "id": 970951585,
                 "language": "C#",
-                "last_commit": "2026-08-17T01:40:24Z",
+                "last_commit": "2026-08-21T13:04:18Z",
                 "owner": "Tim-Maes",
                 "repo": "Facet",
                 "stars": 1203
@@ -805,7 +805,7 @@
                 "archived": false,
                 "id": 562318498,
                 "language": "C#",
-                "last_commit": "2026-08-20T14:02:23Z",
+                "last_commit": "2026-08-22T02:57:45Z",
                 "owner": "credfeto",
                 "repo": "credfeto-enum-source-generation",
                 "stars": 22
@@ -835,7 +835,7 @@
                 "archived": false,
                 "id": 583909039,
                 "language": "C#",
-                "last_commit": "2026-08-21T02:06:31Z",
+                "last_commit": "2026-08-22T02:26:25Z",
                 "owner": "skarllot",
                 "repo": "EnumUtilities",
                 "stars": 18
@@ -907,7 +907,7 @@
                     "last_commit": "2026-08-17T21:24:10Z",
                     "owner": "SteveDunn",
                     "repo": "Vogen",
-                    "stars": 1486
+                    "stars": 1487
                   }
                 },
                 {
@@ -1185,7 +1185,7 @@
                 "archived": false,
                 "id": 20878802,
                 "language": "C#",
-                "last_commit": "2026-08-20T21:26:06Z",
+                "last_commit": "2026-08-22T02:48:45Z",
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
                 "stars": 4969
@@ -1218,7 +1218,7 @@
                 "last_commit": "2026-07-10T09:15:38Z",
                 "owner": "hadashiA",
                 "repo": "VYaml",
-                "stars": 475
+                "stars": 474
               }
             },
             {
@@ -2643,7 +2643,7 @@
                     "last_commit": "2026-03-25T20:27:06Z",
                     "owner": "CommunityToolkit",
                     "repo": "dotnet",
-                    "stars": 3741
+                    "stars": 3742
                   }
                 },
                 {
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:37:27.371Z",
+    "last_updated": "2026-08-22T03:28:40.026Z",
     "original_repository": "amis92/csharp-source-generators",
     "original_repository_id": 302673564,
     "original_repository_sha": "9b17400fe77753cec80e59acbae181afe27e0ec5",
