@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-23T08:27:56Z",
+            "last_commit": "2026-08-24T13:38:17Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20619
+            "stars": 20621
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-23T08:27:56Z",
+            "last_commit": "2026-08-24T13:38:17Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20619
+            "stars": 20621
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 83729993,
             "language": "C#",
-            "last_commit": "2026-08-18T21:39:06Z",
+            "last_commit": "2026-08-24T05:01:44Z",
             "owner": "dotnet",
             "repo": "roslyn-sdk",
             "stars": 545
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-21T02:37:23Z",
                 "owner": "loresoft",
                 "repo": "Injectio",
-                "stars": 249
+                "stars": 248
               }
             },
             {
@@ -345,7 +345,7 @@
                 "last_commit": "2026-07-08T03:21:14Z",
                 "owner": "Cysharp",
                 "repo": "ConsoleAppFramework",
-                "stars": 2215
+                "stars": 2214
               }
             },
             {
@@ -681,7 +681,7 @@
                 "last_commit": "2026-08-12T09:59:45Z",
                 "owner": "wieslawsoltes",
                 "repo": "Svg.Skia",
-                "stars": 723
+                "stars": 724
               }
             }
           ],
@@ -703,7 +703,7 @@
                 "last_commit": "2026-05-11T21:06:17Z",
                 "owner": "andrewlock",
                 "repo": "NetEscapades.EnumGenerators",
-                "stars": 1123
+                "stars": 1124
               }
             },
             {
@@ -805,7 +805,7 @@
                 "archived": false,
                 "id": 562318498,
                 "language": "C#",
-                "last_commit": "2026-08-23T17:36:24Z",
+                "last_commit": "2026-08-24T11:19:26Z",
                 "owner": "credfeto",
                 "repo": "credfeto-enum-source-generation",
                 "stars": 22
@@ -907,7 +907,7 @@
                     "last_commit": "2026-08-17T21:24:10Z",
                     "owner": "SteveDunn",
                     "repo": "Vogen",
-                    "stars": 1488
+                    "stars": 1489
                   }
                 },
                 {
@@ -1173,7 +1173,7 @@
                 "last_commit": "2026-08-20T05:39:04Z",
                 "owner": "MessagePack-CSharp",
                 "repo": "MessagePack-CSharp",
-                "stars": 6772
+                "stars": 6773
               }
             },
             {
@@ -1956,6 +1956,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Plastic",
+                  "description": "This project provides encapsulation of things like Domain, Application Rules, Business Rules or Business Logic in Application.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 389267704,
+                    "language": "C#",
+                    "last_commit": "2024-06-29T15:42:53Z",
+                    "owner": "sang-hyeon",
+                    "repo": "Plastic",
+                    "stars": 63
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Command"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "FluentBuilder",
                   "description": "- A project which uses Source Generation to create a FluentBuilder for a specified model or DTO.",
                   "children": [],
@@ -2129,6 +2151,28 @@
               "description": null,
               "node_type": "group",
               "title": "Adapter"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SuperFluid",
+                  "description": "Generates the interfaces to represent a fluent API with grammar",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 649424985,
+                    "language": "C#",
+                    "last_commit": "2026-05-22T12:38:11Z",
+                    "owner": "hughesjs",
+                    "repo": "SuperFluid",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Fluent API"
             }
           ],
           "description": null,
@@ -3603,7 +3647,7 @@
                 "archived": false,
                 "id": 873588553,
                 "language": "C#",
-                "last_commit": "2026-08-23T17:37:32Z",
+                "last_commit": "2026-08-24T11:20:36Z",
                 "owner": "credfeto",
                 "repo": "credfeto-version-constants-generator",
                 "stars": 4
@@ -3967,7 +4011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:39:56.677Z",
+    "last_updated": "2026-08-24T14:05:55.434Z",
     "original_repository": "amis92/csharp-source-generators",
     "original_repository_id": 302673564,
     "original_repository_sha": "9b17400fe77753cec80e59acbae181afe27e0ec5",
