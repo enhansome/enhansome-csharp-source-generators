@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-24T13:38:17Z",
+            "last_commit": "2026-08-25T03:30:05Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20621
+            "stars": 20622
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-24T13:38:17Z",
+            "last_commit": "2026-08-25T03:30:05Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20621
+            "stars": 20622
           }
         },
         {
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 512087796,
                 "language": "C#",
-                "last_commit": "2026-08-19T23:55:53Z",
+                "last_commit": "2026-08-24T23:56:11Z",
                 "owner": "distantcam",
                 "repo": "AutoCtor",
                 "stars": 113
@@ -469,7 +469,7 @@
                 "archived": false,
                 "id": 913311293,
                 "language": "C#",
-                "last_commit": "2026-08-18T10:45:49Z",
+                "last_commit": "2026-08-24T19:50:38Z",
                 "owner": "lofcz",
                 "repo": "FastCloner",
                 "stars": 367
@@ -666,7 +666,7 @@
                 "last_commit": "2026-08-13T21:44:22Z",
                 "owner": "Sergio0694",
                 "repo": "ComputeSharp",
-                "stars": 3157
+                "stars": 3158
               }
             },
             {
@@ -678,7 +678,7 @@
                 "archived": false,
                 "id": 216883277,
                 "language": "C#",
-                "last_commit": "2026-08-12T09:59:45Z",
+                "last_commit": "2026-08-24T20:31:51Z",
                 "owner": "wieslawsoltes",
                 "repo": "Svg.Skia",
                 "stars": 724
@@ -904,10 +904,10 @@
                     "archived": false,
                     "id": 432992449,
                     "language": "C#",
-                    "last_commit": "2026-08-17T21:24:10Z",
+                    "last_commit": "2026-08-24T21:25:11Z",
                     "owner": "SteveDunn",
                     "repo": "Vogen",
-                    "stars": 1489
+                    "stars": 1490
                   }
                 },
                 {
@@ -1200,7 +1200,7 @@
                 "archived": false,
                 "id": 289760110,
                 "language": "C#",
-                "last_commit": "2026-08-23T21:56:12Z",
+                "last_commit": "2026-08-24T17:56:37Z",
                 "owner": "sveinungf",
                 "repo": "spreadcheetah",
                 "stars": 697
@@ -1926,7 +1926,7 @@
                     "archived": false,
                     "id": 1022873381,
                     "language": "C#",
-                    "last_commit": "2026-08-17T22:19:37Z",
+                    "last_commit": "2026-08-24T22:19:50Z",
                     "owner": "FoundatioFx",
                     "repo": "Foundatio.Mediator",
                     "stars": 40
@@ -2369,7 +2369,7 @@
                 "archived": false,
                 "id": 774457081,
                 "language": "C#",
-                "last_commit": "2026-08-17T23:18:13Z",
+                "last_commit": "2026-08-25T03:19:21Z",
                 "owner": "ImmediatePlatform",
                 "repo": "Immediate.Apis",
                 "stars": 41
@@ -3080,7 +3080,7 @@
                 "last_commit": "2026-05-25T23:24:22Z",
                 "owner": "Sergio0694",
                 "repo": "PolySharp",
-                "stars": 2219
+                "stars": 2220
               }
             },
             {
@@ -3140,7 +3140,7 @@
                 "last_commit": "2026-08-21T00:18:41Z",
                 "owner": "devlooped",
                 "repo": "SmallSharp",
-                "stars": 308
+                "stars": 309
               }
             },
             {
@@ -3152,10 +3152,10 @@
                 "archived": false,
                 "id": 311108413,
                 "language": "C#",
-                "last_commit": "2026-08-19T01:49:04Z",
+                "last_commit": "2026-08-25T01:49:19Z",
                 "owner": "Nyrest",
                 "repo": "FastGenericNew",
-                "stars": 279
+                "stars": 280
               }
             },
             {
@@ -3205,6 +3205,21 @@
             },
             {
               "node_type": "item",
+              "title": "CsCodeGenerator",
+              "description": "Easy C# class and code generation, POCO object and Methods creation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82320174,
+                "language": "C#",
+                "last_commit": "2025-03-17T15:18:16Z",
+                "owner": "borisdj",
+                "repo": "CsCodeGenerator",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
               "title": "net_automatic_interface",
               "description": ".Net Core Source Generator for Automatic Interfaces.",
               "children": [],
@@ -3216,21 +3231,6 @@
                 "owner": "codecentric",
                 "repo": "net_automatic_interface",
                 "stars": 116
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "CsCodeGenerator",
-              "description": "Easy C# class and code generation, POCO object and Methods creation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 82320174,
-                "language": "C#",
-                "last_commit": "2025-03-17T15:18:16Z",
-                "owner": "borisdj",
-                "repo": "CsCodeGenerator",
-                "stars": 115
               }
             },
             {
@@ -4011,7 +4011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:55.434Z",
+    "last_updated": "2026-08-25T03:35:15.233Z",
     "original_repository": "amis92/csharp-source-generators",
     "original_repository_id": 302673564,
     "original_repository_sha": "9b17400fe77753cec80e59acbae181afe27e0ec5",
