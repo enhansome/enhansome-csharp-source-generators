@@ -666,7 +666,7 @@
                 "last_commit": "2026-08-13T21:44:22Z",
                 "owner": "Sergio0694",
                 "repo": "ComputeSharp",
-                "stars": 3158
+                "stars": 3159
               }
             },
             {
@@ -3080,7 +3080,7 @@
                 "last_commit": "2026-05-25T23:24:22Z",
                 "owner": "Sergio0694",
                 "repo": "PolySharp",
-                "stars": 2220
+                "stars": 2221
               }
             },
             {
@@ -4011,7 +4011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:35:15.233Z",
+    "last_updated": "2026-08-25T05:59:52.414Z",
     "original_repository": "amis92/csharp-source-generators",
     "original_repository_id": 302673564,
     "original_repository_sha": "9b17400fe77753cec80e59acbae181afe27e0ec5",
