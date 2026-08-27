@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T08:08:41Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20628
+            "stars": 20629
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-27T08:08:41Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20628
+            "stars": 20629
           }
         },
         {
@@ -424,7 +424,7 @@
                 "archived": false,
                 "id": 459090159,
                 "language": "C#",
-                "last_commit": "2026-08-17T18:49:13Z",
+                "last_commit": "2026-08-27T12:07:45Z",
                 "owner": "riok",
                 "repo": "mapperly",
                 "stars": 4153
@@ -1412,7 +1412,7 @@
                     "archived": false,
                     "id": 696463074,
                     "language": "C#",
-                    "last_commit": "2026-08-27T11:19:26Z",
+                    "last_commit": "2026-08-27T12:22:07Z",
                     "owner": "aviationexam",
                     "repo": "json-converter-source-generator",
                     "stars": 5
@@ -3272,7 +3272,7 @@
                 "archived": false,
                 "id": 556778572,
                 "language": "C#",
-                "last_commit": "2026-08-27T11:24:05Z",
+                "last_commit": "2026-08-27T11:36:50Z",
                 "owner": "zompinc",
                 "repo": "sync-method-generator",
                 "stars": 84
@@ -4011,7 +4011,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:37.744Z",
+    "last_updated": "2026-08-27T13:07:26.322Z",
     "original_repository_info": {
       "archived": false,
       "id": 302673564,
