@@ -12,11 +12,12 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-27T08:08:41Z",
+            "last_commit": "2026-08-28T13:43:31Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20629
-          }
+            "stars": 20631
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-27T08:08:41Z",
+            "last_commit": "2026-08-28T13:43:31Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20629
-          }
+            "stars": 20631
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "dotnet",
             "repo": "roslyn-sdk",
             "stars": 545
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "davidwengier",
             "repo": "SourceGeneratorTemplate",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "davidwengier",
             "repo": "SourceGeneratorPlayground",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         }
       ],
       "title": "Documentation and samples"
@@ -99,7 +104,8 @@
                 "owner": "pakrym",
                 "repo": "jab",
                 "stars": 1256
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "YairHalberstadt",
                 "repo": "stronginject",
                 "stars": 868
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -128,8 +135,9 @@
                 "last_commit": "2026-08-15T09:33:13Z",
                 "owner": "DevTeam",
                 "repo": "Pure.DI",
-                "stars": 840
-              }
+                "stars": 841
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "loresoft",
                 "repo": "Injectio",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "Dreamescaper",
                 "repo": "ServiceScan.SourceGenerator",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "patrickklaeren",
                 "repo": "AutoRegisterInject",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "distantcam",
                 "repo": "AutoCtor",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "giggio",
                 "repo": "sourceinject",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "AlyElhaddad",
                 "repo": "ThunderboltIoc",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "cythral",
                 "repo": "lambdajection",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "essy-ecosystem",
                 "repo": "dependency-management",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "juniorporfirio",
                 "repo": "grpcinjection",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "Yeah69",
                 "repo": "MrMeeseeks.DIE",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "BlackWhiteYoshi",
                 "repo": "CircleDI",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "crwsolutions",
                 "repo": "sourcedepend",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "ImmediatePlatform",
                 "repo": "Immediate.Injections",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -345,8 +366,9 @@
                 "last_commit": "2026-07-08T03:21:14Z",
                 "owner": "Cysharp",
                 "repo": "ConsoleAppFramework",
-                "stars": 2214
-              }
+                "stars": 2215
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -361,7 +383,8 @@
                 "owner": "drewnoakes",
                 "repo": "figgle",
                 "stars": 492
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "docopt",
                 "repo": "docopt.net",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "jeppevammenkristensen",
                 "repo": "auto-spectre",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -413,7 +438,8 @@
                 "owner": "MapsterMapper",
                 "repo": "Mapster",
                 "stars": 5163
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -428,7 +454,8 @@
                 "owner": "riok",
                 "repo": "mapperly",
                 "stars": 4153
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -443,7 +470,8 @@
                 "owner": "Tim-Maes",
                 "repo": "Facet",
                 "stars": 1204
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -458,7 +486,8 @@
                 "owner": "Tim-Maes",
                 "repo": "Facet",
                 "stars": 1204
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -473,7 +502,8 @@
                 "owner": "lofcz",
                 "repo": "FastCloner",
                 "stars": 368
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -488,7 +518,8 @@
                 "owner": "MoienTajik",
                 "repo": "GraphQL.Tools",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -503,7 +534,8 @@
                 "owner": "mrtaikandi",
                 "repo": "MapTo",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -518,7 +550,8 @@
                 "owner": "DedAnton",
                 "repo": "NextGenMapper",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -533,7 +566,8 @@
                 "owner": "Kros-sk",
                 "repo": "Kros.Generators.Flattening",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -548,7 +582,8 @@
                 "owner": "Ohorodnikov",
                 "repo": "AutoDto",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -563,7 +598,8 @@
                 "owner": "alekshura",
                 "repo": "SourceMapper",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -578,7 +614,8 @@
                 "owner": "paiden",
                 "repo": "SourceMapper",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -593,7 +630,8 @@
                 "owner": "musictopia2",
                 "repo": "MappingCloningExtensions",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -611,11 +649,12 @@
                 "archived": false,
                 "id": 185841694,
                 "language": "C#",
-                "last_commit": "2026-08-09T10:16:40Z",
+                "last_commit": "2026-08-28T10:13:00Z",
                 "owner": "CoreWCF",
                 "repo": "CoreWCF",
                 "stars": 1775
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -630,7 +669,8 @@
                 "owner": "DouglasDwyer",
                 "repo": "Imp.NET",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -645,7 +685,8 @@
                 "owner": "alonf",
                 "repo": "IoTHubClientGenerator",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -667,7 +708,8 @@
                 "owner": "Sergio0694",
                 "repo": "ComputeSharp",
                 "stars": 3161
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -678,11 +720,12 @@
                 "archived": false,
                 "id": 216883277,
                 "language": "C#",
-                "last_commit": "2026-08-25T09:09:00Z",
+                "last_commit": "2026-08-27T22:12:43Z",
                 "owner": "wieslawsoltes",
                 "repo": "Svg.Skia",
-                "stars": 725
-              }
+                "stars": 726
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -704,7 +747,8 @@
                 "owner": "andrewlock",
                 "repo": "NetEscapades.EnumGenerators",
                 "stars": 1124
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -719,7 +763,8 @@
                 "owner": "EngRajabi",
                 "repo": "Enum.Source.Generator",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -734,7 +779,8 @@
                 "owner": "hanachiru",
                 "repo": "RapidEnum",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -749,7 +795,8 @@
                 "owner": "Ceiridge",
                 "repo": "BetterEnums",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -764,7 +811,8 @@
                 "owner": "joseftw",
                 "repo": "jos.enumeration",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -779,7 +827,8 @@
                 "owner": "Spinnernicholas",
                 "repo": "EnumFastToStringDotNet",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -794,7 +843,8 @@
                 "owner": "leoformaggi",
                 "repo": "enum-utilities-generator",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -805,11 +855,12 @@
                 "archived": false,
                 "id": 562318498,
                 "language": "C#",
-                "last_commit": "2026-08-24T11:19:26Z",
+                "last_commit": "2026-08-28T09:54:58Z",
                 "owner": "credfeto",
                 "repo": "credfeto-enum-source-generation",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -824,7 +875,8 @@
                 "owner": "HamedFathi",
                 "repo": "EnumerationClassGenerator",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -839,7 +891,8 @@
                 "owner": "skarllot",
                 "repo": "EnumUtilities",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -854,7 +907,8 @@
                 "owner": "ashenBlade",
                 "repo": "EnumClass",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -869,7 +923,8 @@
                 "owner": "musictopia2",
                 "repo": "FastEnumGenerator",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -893,7 +948,8 @@
                     "owner": "andrewlock",
                     "repo": "StronglyTypedId",
                     "stars": 1752
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -908,7 +964,8 @@
                     "owner": "SteveDunn",
                     "repo": "Vogen",
                     "stars": 1492
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -919,11 +976,12 @@
                     "archived": false,
                     "id": 311397865,
                     "language": "C#",
-                    "last_commit": "2026-08-20T14:48:01Z",
+                    "last_commit": "2026-08-28T13:20:50Z",
                     "owner": "diegofrata",
                     "repo": "Generator.Equals",
                     "stars": 193
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -938,7 +996,8 @@
                     "owner": "martinothamar",
                     "repo": "WrapperValueObject",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -953,7 +1012,8 @@
                     "owner": "lucasteles",
                     "repo": "Strongly",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -968,7 +1028,8 @@
                     "owner": "RyotaMurohoshi",
                     "repo": "ValueObjectGenerator",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -983,7 +1044,8 @@
                     "owner": "ignatandrei",
                     "repo": "RSCG_UtilityTypes",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -998,7 +1060,8 @@
                     "owner": "sonnemaf",
                     "repo": "ReflectionIT.ComparisonOperatorsGenerator",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -1020,7 +1083,8 @@
                     "owner": "DevTeam",
                     "repo": "Immutype",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1035,7 +1099,8 @@
                     "owner": "leviysoft",
                     "repo": "visor",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -1057,7 +1122,8 @@
                     "owner": "domn1995",
                     "repo": "dunet",
                     "stars": 883
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1072,7 +1138,8 @@
                     "owner": "StefH",
                     "repo": "AnyOf",
                     "stars": 127
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1087,7 +1154,8 @@
                     "owner": "mknejp",
                     "repo": "dotvariant",
                     "stars": 73
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1102,7 +1170,8 @@
                     "owner": "SleepWellPupper",
                     "repo": "Unions",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1117,7 +1186,8 @@
                     "owner": "Ne4to",
                     "repo": "N.SourceGenerators.UnionTypes",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1132,7 +1202,8 @@
                     "owner": "polyadic",
                     "repo": "funcky-discriminated-union",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1147,7 +1218,8 @@
                     "owner": "ycanardeau",
                     "repo": "MatchGenerator",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -1170,11 +1242,12 @@
                 "archived": false,
                 "id": 81770291,
                 "language": "C#",
-                "last_commit": "2026-08-20T05:39:04Z",
+                "last_commit": "2026-08-28T11:53:37Z",
                 "owner": "MessagePack-CSharp",
                 "repo": "MessagePack-CSharp",
                 "stars": 6774
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1189,7 +1262,8 @@
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
                 "stars": 4968
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1200,11 +1274,12 @@
                 "archived": false,
                 "id": 289760110,
                 "language": "C#",
-                "last_commit": "2026-08-24T17:56:37Z",
+                "last_commit": "2026-08-27T15:49:30Z",
                 "owner": "sveinungf",
                 "repo": "spreadcheetah",
                 "stars": 697
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1219,7 +1294,8 @@
                 "owner": "hadashiA",
                 "repo": "VYaml",
                 "stars": 474
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1234,7 +1310,8 @@
                 "owner": "serdedotnet",
                 "repo": "serde",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1249,7 +1326,8 @@
                 "owner": "nuskey8",
                 "repo": "Csv-CSharp",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1264,7 +1342,8 @@
                 "owner": "ZingBallyhoo",
                 "repo": "StackXML",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1279,7 +1358,8 @@
                 "owner": "RudolfKurkaMs",
                 "repo": "StructPacker",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1294,7 +1374,8 @@
                 "owner": "nemesissoft",
                 "repo": "Nemesis.TextParsers",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1305,11 +1386,12 @@
                 "archived": false,
                 "id": 311079059,
                 "language": "C#",
-                "last_commit": "2026-08-20T13:32:30Z",
+                "last_commit": "2026-08-28T02:02:50Z",
                 "owner": "archi-Doc",
                 "repo": "Tinyhand",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1324,7 +1406,8 @@
                 "owner": "dimohy",
                 "repo": "GenPack",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1339,7 +1422,8 @@
                 "owner": "LokiMidgard",
                 "repo": "CSV-Parser-Generator",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1354,7 +1438,8 @@
                 "owner": "cyriaca",
                 "repo": "Azura",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "children": [
@@ -1371,7 +1456,8 @@
                     "owner": "trampster",
                     "repo": "JsonSrcGen",
                     "stars": 151
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1386,7 +1472,8 @@
                     "owner": "hermanussen",
                     "repo": "JsonByExampleGenerator",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1401,7 +1488,8 @@
                     "owner": "surgicalcoder",
                     "repo": "JsonPolymorphicGenerator",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1412,11 +1500,12 @@
                     "archived": false,
                     "id": 696463074,
                     "language": "C#",
-                    "last_commit": "2026-08-27T12:22:07Z",
+                    "last_commit": "2026-08-28T11:44:58Z",
                     "owner": "aviationexam",
                     "repo": "json-converter-source-generator",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1431,7 +1520,8 @@
                     "owner": "musictopia2",
                     "repo": "JsonDeserializeResourceSourceGenerator",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1446,7 +1536,8 @@
                     "owner": "musictopia2",
                     "repo": "JsonSerializerContextGenerator",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1461,7 +1552,8 @@
                     "owner": "Terria-K",
                     "repo": "TeuJson",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -1488,7 +1580,8 @@
                 "owner": "jeppevammenkristensen",
                 "repo": "cachesourcegenerator",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1503,7 +1596,8 @@
                 "owner": "ImmediatePlatform",
                 "repo": "Immediate.Cache",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -1525,7 +1619,8 @@
                 "owner": "Hookyns",
                 "repo": "validly",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1540,7 +1635,8 @@
                 "owner": "ImmediatePlatform",
                 "repo": "Immediate.Validations",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -1562,7 +1658,8 @@
                 "owner": "ycanardeau",
                 "repo": "ResXGenerator",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1577,7 +1674,8 @@
                 "owner": "kl1mm",
                 "repo": "localize",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1592,7 +1690,8 @@
                 "owner": "Yeah69",
                 "repo": "MrMeeseeks.ResXToViewModelGenerator",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -1614,7 +1713,8 @@
                 "owner": "koenbeuk",
                 "repo": "ScenarioTests",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1629,7 +1729,8 @@
                 "owner": "pmrogala",
                 "repo": "Buildenator",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1644,7 +1745,8 @@
                 "owner": "mazharenko",
                 "repo": "FluentAssertions.Eventual",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "children": [
@@ -1660,8 +1762,9 @@
                     "last_commit": "2026-08-19T12:55:02Z",
                     "owner": "JasonBock",
                     "repo": "Rocks",
-                    "stars": 389
-                  }
+                    "stars": 390
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1676,7 +1779,8 @@
                     "owner": "StefH",
                     "repo": "ProxyInterfaceSourceGenerator",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1691,7 +1795,8 @@
                     "owner": "onsatoci",
                     "repo": "InterfaceGenerator",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1706,7 +1811,8 @@
                     "owner": "cezarypiatek",
                     "repo": "GRPC-Mock-Server",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1721,7 +1827,8 @@
                     "owner": "HamedFathi",
                     "repo": "MockableStaticGenerator",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1736,7 +1843,8 @@
                     "owner": "thomas-girotto",
                     "repo": "MockGen",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1751,7 +1859,8 @@
                     "owner": "hermanussen",
                     "repo": "MockSourceGenerator",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1766,7 +1875,8 @@
                     "owner": "Atulin",
                     "repo": "Forged",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1781,7 +1891,8 @@
                     "owner": "NeatooDotNet",
                     "repo": "KnockOff",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -1808,7 +1919,8 @@
                 "owner": "CollinAlpert",
                 "repo": "Lombok.NET",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1823,7 +1935,8 @@
                 "owner": "BlackWhiteYoshi",
                 "repo": "InlineComposition",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1838,7 +1951,8 @@
                 "owner": "aabs",
                 "repo": "ActorSrcGen",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1853,7 +1967,8 @@
                 "owner": "SzymonHalucha",
                 "repo": "Minerals.AutoMixins",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -1868,7 +1983,8 @@
                 "owner": "JinShil",
                 "repo": "JinShil.MixinSourceGenerator",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "children": [
@@ -1884,8 +2000,9 @@
                     "last_commit": "2026-03-22T23:44:12Z",
                     "owner": "martinothamar",
                     "repo": "Mediator",
-                    "stars": 3698
-                  }
+                    "stars": 3700
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1900,7 +2017,8 @@
                     "owner": "ImmediatePlatform",
                     "repo": "Immediate.Handlers",
                     "stars": 198
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1915,7 +2033,8 @@
                     "owner": "DumplingsDevs",
                     "repo": "Pipelines",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1930,7 +2049,8 @@
                     "owner": "FoundatioFx",
                     "repo": "Foundatio.Mediator",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -1945,7 +2065,8 @@
                     "owner": "Burgyn",
                     "repo": "MMLib.MediatR.Generators",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -1967,7 +2088,8 @@
                     "owner": "sang-hyeon",
                     "repo": "Plastic",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -1989,7 +2111,8 @@
                     "owner": "StefH",
                     "repo": "FluentBuilder",
                     "stars": 206
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2004,7 +2127,8 @@
                     "owner": "m31coding",
                     "repo": "M31.FluentAPI",
                     "stars": 141
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2019,7 +2143,8 @@
                     "owner": "dasMulli",
                     "repo": "data-builder-generator",
                     "stars": 116
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2034,7 +2159,8 @@
                     "owner": "Georgiy-Petrov",
                     "repo": "StepwiseBuilderGenerator",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -2056,7 +2182,8 @@
                     "owner": "devlooped",
                     "repo": "avatar",
                     "stars": 141
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2071,7 +2198,8 @@
                     "owner": "jwshyns",
                     "repo": "DudNet",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -2093,7 +2221,8 @@
                     "owner": "Stepami",
                     "repo": "visitor-net",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2108,7 +2237,8 @@
                     "owner": "Yeah69",
                     "repo": "MrMeeseeks.Visitor",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -2130,7 +2260,8 @@
                     "owner": "beakona",
                     "repo": "AutoInterface",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2145,7 +2276,8 @@
                     "owner": "SzymonHalucha",
                     "repo": "Minerals.AutoInterfaces",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -2167,7 +2299,8 @@
                     "owner": "hughesjs",
                     "repo": "SuperFluid",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -2194,7 +2327,8 @@
                 "owner": "TheArchitectDev",
                 "repo": "Architect.DomainModeling",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2209,7 +2343,8 @@
                 "owner": "altasoft",
                 "repo": "DomainPrimitives",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -2231,7 +2366,8 @@
                 "owner": "sebastienros",
                 "repo": "comptime",
                 "stars": 574
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2246,7 +2382,8 @@
                 "owner": "GobieGenerator",
                 "repo": "Gobie",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2261,7 +2398,8 @@
                 "owner": "krasin-ga",
                 "repo": "matryoshki",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2276,7 +2414,8 @@
                 "owner": "roeibajayo",
                 "repo": "SourceGeneratorQuery",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2291,7 +2430,8 @@
                 "owner": "musictopia2",
                 "repo": "GenerateHelperLibraries",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -2313,7 +2453,8 @@
                 "owner": "nenoNaninu",
                 "repo": "TypedSignalR.Client",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2328,7 +2469,8 @@
                 "owner": "Melchy",
                 "repo": "Ridge",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2343,7 +2485,8 @@
                 "owner": "Jalalx",
                 "repo": "HttpClientCodeGenerator",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2358,7 +2501,8 @@
                 "owner": "daviddotcs",
                 "repo": "safe-routing",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2373,7 +2517,8 @@
                 "owner": "ImmediatePlatform",
                 "repo": "Immediate.Apis",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2388,7 +2533,8 @@
                 "owner": "surgicalcoder",
                 "repo": "ApiClientGenerator",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2403,7 +2549,8 @@
                 "owner": "gumbarros",
                 "repo": "EndpointHelpers",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2418,7 +2565,8 @@
                 "owner": "MrAliSalehi",
                 "repo": "Ajax-Service",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2433,7 +2581,8 @@
                 "owner": "cloud0259",
                 "repo": "ControllerGenerator",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "children": [
@@ -2450,7 +2599,8 @@
                     "owner": "HavenDV",
                     "repo": "H.NSwag.Generator",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2465,7 +2615,8 @@
                     "owner": "alekshura",
                     "repo": "SourceApi",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2480,7 +2631,8 @@
                     "owner": "s-tarasov",
                     "repo": "ST.NSwag.ServerSourceGenerator",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -2502,7 +2654,8 @@
                     "owner": "Tyrrrz",
                     "repo": "MiniRazor",
                     "stars": 230
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2517,7 +2670,8 @@
                     "owner": "BlazorOcticons",
                     "repo": "BlazorOcticons",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2532,7 +2686,8 @@
                     "owner": "surgicalcoder",
                     "repo": "BlazorInteropGenerator",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2547,7 +2702,8 @@
                     "owner": "BlackWhiteYoshi",
                     "repo": "Blazor.TSRuntime",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2562,7 +2718,8 @@
                     "owner": "surgicalcoder",
                     "repo": "RazorPageRouteGenerator",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -2589,7 +2746,8 @@
                 "owner": "HavenDV",
                 "repo": "DependencyPropertyGenerator",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2604,7 +2762,8 @@
                 "owner": "AvaloniaUI",
                 "repo": "Avalonia.NameGenerator",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2619,7 +2778,8 @@
                 "owner": "IGood",
                 "repo": "boilerplatezero",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2634,7 +2794,8 @@
                 "owner": "JasonWei512",
                 "repo": "WinUI-ObservableSettings",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "children": [
@@ -2651,7 +2812,8 @@
                     "owner": "canton7",
                     "repo": "PropertyChanged.SourceGenerator",
                     "stars": 167
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2666,7 +2828,8 @@
                     "owner": "ufcpp",
                     "repo": "ValueChangedGenerator",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -2687,8 +2850,9 @@
                     "last_commit": "2026-03-25T20:27:06Z",
                     "owner": "CommunityToolkit",
                     "repo": "dotnet",
-                    "stars": 3749
-                  }
+                    "stars": 3750
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2703,7 +2867,8 @@
                     "owner": "thomasclaudiushuber",
                     "repo": "mvvmgen",
                     "stars": 263
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 },
                 {
                   "node_type": "item",
@@ -2718,7 +2883,8 @@
                     "owner": "DevExpress",
                     "repo": "DevExpress.Mvvm.CodeGenerators",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:36:24.704Z"
                 }
               ],
               "description": null,
@@ -2745,7 +2911,8 @@
                 "owner": "jitbit",
                 "repo": "MapDataReader",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2760,7 +2927,8 @@
                 "owner": "kant2002",
                 "repo": "SqlMarshal",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2775,7 +2943,8 @@
                 "owner": "Ludovicdln",
                 "repo": "Breezy",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2790,7 +2959,8 @@
                 "owner": "AdaskoTheBeAsT",
                 "repo": "AdaskoTheBeAsT.Identity.Dapper",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2805,7 +2975,8 @@
                 "owner": "TarasKovalenko",
                 "repo": "EntityLengths.Generator",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2820,7 +2991,8 @@
                 "owner": "daikoz",
                 "repo": "SQLWrapper",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2835,7 +3007,8 @@
                 "owner": "Atulin",
                 "repo": "AutoDbSet",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2850,7 +3023,8 @@
                 "owner": "inputfalken",
                 "repo": "Dynatello",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2865,7 +3039,8 @@
                 "owner": "LieselThuriot",
                 "repo": "TableStorage",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2880,7 +3055,8 @@
                 "owner": "Atulin",
                 "repo": "NpgsqlSourceGenerators",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2895,7 +3071,8 @@
                 "owner": "pstlnce",
                 "repo": "unflat",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -2917,7 +3094,8 @@
                 "owner": "betwixt-labs",
                 "repo": "dot-env-generator",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2932,7 +3110,8 @@
                 "owner": "jasonswearingen",
                 "repo": "NotNot.AppSettings",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2947,7 +3126,8 @@
                 "owner": "alekshura",
                 "repo": "SourceConfig",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2962,7 +3142,8 @@
                 "owner": "surgicalcoder",
                 "repo": "StronglyTypedEmbeddedResources",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2977,7 +3158,8 @@
                 "owner": "Atulin",
                 "repo": "ConfigBinder",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -2992,7 +3174,8 @@
                 "owner": "KAW0",
                 "repo": "EnvVariablesGenerator",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3007,7 +3190,8 @@
                 "owner": "musictopia2",
                 "repo": "TxtToListGenerator",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -3029,7 +3213,8 @@
                 "owner": "atifaziz",
                 "repo": "Transplator",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3044,7 +3229,8 @@
                 "owner": "otac0n",
                 "repo": "Weave",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3059,7 +3245,8 @@
                 "owner": "JKamsker",
                 "repo": "JKToolkit.TemplatePropertyGenerator",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -3080,8 +3267,9 @@
                 "last_commit": "2026-05-25T23:24:22Z",
                 "owner": "Sergio0694",
                 "repo": "PolySharp",
-                "stars": 2222
-              }
+                "stars": 2224
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3092,11 +3280,12 @@
                 "archived": false,
                 "id": 295828621,
                 "language": "C#",
-                "last_commit": "2026-08-27T05:50:46Z",
+                "last_commit": "2026-08-27T14:32:40Z",
                 "owner": "devlooped",
                 "repo": "ThisAssembly",
-                "stars": 532
-              }
+                "stars": 531
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3111,7 +3300,8 @@
                 "owner": "enisn",
                 "repo": "AutoFilterer",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3126,7 +3316,8 @@
                 "owner": "cathei",
                 "repo": "LinqGen",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3141,7 +3332,8 @@
                 "owner": "devlooped",
                 "repo": "SmallSharp",
                 "stars": 309
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3156,7 +3348,8 @@
                 "owner": "Nyrest",
                 "repo": "FastGenericNew",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3171,7 +3364,8 @@
                 "owner": "ufcpp",
                 "repo": "StringLiteralGenerator",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3185,8 +3379,9 @@
                 "last_commit": "2026-07-12T07:56:18Z",
                 "owner": "stbychkov",
                 "repo": "AutoLoggerMessage",
-                "stars": 121
-              }
+                "stars": 122
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3201,7 +3396,8 @@
                 "owner": "codecentric",
                 "repo": "net_automatic_interface",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3216,7 +3412,8 @@
                 "owner": "borisdj",
                 "repo": "CsCodeGenerator",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3231,7 +3428,8 @@
                 "owner": "codecentric",
                 "repo": "net_automatic_interface",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3246,7 +3444,8 @@
                 "owner": "chaowlert",
                 "repo": "PrimaryConstructor",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3261,7 +3460,8 @@
                 "owner": "mostmand",
                 "repo": "Cloneable",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3276,7 +3476,8 @@
                 "owner": "zompinc",
                 "repo": "sync-method-generator",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3291,7 +3492,8 @@
                 "owner": "piotrstenke",
                 "repo": "Durian",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3306,7 +3508,8 @@
                 "owner": "barncastle",
                 "repo": "BitsKit",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3321,7 +3524,8 @@
                 "owner": "k94ll13nn3",
                 "repo": "AutoConstructor",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3336,7 +3540,8 @@
                 "owner": "fiseni",
                 "repo": "SmartAnnotations",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3351,7 +3556,8 @@
                 "owner": "archi-Doc",
                 "repo": "BigMachines",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3366,7 +3572,8 @@
                 "owner": "Elskom",
                 "repo": "GitBuildInfo.SourceGenerator",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3381,7 +3588,8 @@
                 "owner": "AnderssonPeter",
                 "repo": "Dolly",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3396,7 +3604,8 @@
                 "owner": "Flavien",
                 "repo": "quickconstructor",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3411,7 +3620,8 @@
                 "owner": "DavidFineboym",
                 "repo": "LoggingDecoratorGenerator",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3426,7 +3636,8 @@
                 "owner": "pekspro",
                 "repo": "BuildInformationGenerator",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3441,7 +3652,8 @@
                 "owner": "Burgyn",
                 "repo": "MMLib.ToString",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3456,7 +3668,8 @@
                 "owner": "Elskom",
                 "repo": "IDisposableGenerator",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3471,7 +3684,8 @@
                 "owner": "IeuanWalker",
                 "repo": "Hangfire.RecurringJob",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3486,7 +3700,8 @@
                 "owner": "BlackWhiteYoshi",
                 "repo": "AutoInterface",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3501,7 +3716,8 @@
                 "owner": "LokiMidgard",
                 "repo": "AutoInvoke.Generator",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3512,11 +3728,12 @@
                 "archived": false,
                 "id": 340571331,
                 "language": "C#",
-                "last_commit": "2026-08-20T13:42:48Z",
+                "last_commit": "2026-08-28T03:17:23Z",
                 "owner": "archi-Doc",
                 "repo": "ValueLink",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3531,7 +3748,8 @@
                 "owner": "AlexNav73",
                 "repo": "CoreCraft",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3546,7 +3764,8 @@
                 "owner": "iiweis",
                 "repo": "PrimitiveStaticDataGenerator",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3561,7 +3780,8 @@
                 "owner": "Yeah69",
                 "repo": "MrMeeseeks.StaticDelegateGenerator",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3576,7 +3796,8 @@
                 "owner": "B1Z0N",
                 "repo": "LazyshGen",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3591,7 +3812,8 @@
                 "owner": "Youssef1313",
                 "repo": "PrintMembersGenerator",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3606,7 +3828,8 @@
                 "owner": "ufcpp",
                 "repo": "MemberAccessGenerator",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3621,7 +3844,8 @@
                 "owner": "ProphetLamb",
                 "repo": "TupleOverloadGenerator",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3636,7 +3860,8 @@
                 "owner": "BlackWhiteYoshi",
                 "repo": "AssemblyVersionInfo",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3651,7 +3876,8 @@
                 "owner": "credfeto",
                 "repo": "credfeto-version-constants-generator",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3666,7 +3892,8 @@
                 "owner": "hermanussen",
                 "repo": "Fairy",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3681,7 +3908,8 @@
                 "owner": "pekspro",
                 "repo": "DataAnnotationValuesExtractor",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3696,7 +3924,8 @@
                 "owner": "sonnemaf",
                 "repo": "ReflectionIT.DisposeGenerator",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3711,7 +3940,8 @@
                 "owner": "sonnemaf",
                 "repo": "ReflectionIT.PropertyThrowGenerator",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             },
             {
               "node_type": "item",
@@ -3726,7 +3956,8 @@
                 "owner": "tenekon",
                 "repo": "Tenekon.MethodOverloads.SourceGenerator",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
             }
           ],
           "description": null,
@@ -3752,7 +3983,8 @@
             "owner": "thenameless314159",
             "repo": "SourceGeneratorUtils",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3767,7 +3999,8 @@
             "owner": "musictopia2",
             "repo": "CommonSourceGeneratorsHelpers",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3782,7 +4015,8 @@
             "owner": "LokiMidgard",
             "repo": "SourceGenerator.Helper.CopyCode",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3797,7 +4031,8 @@
             "owner": "andrzejolszak",
             "repo": "BuilderGeneratorHotReload",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3812,7 +4047,8 @@
             "owner": "musictopia2",
             "repo": "AttributesSourceGeneratorHelper",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3827,7 +4063,8 @@
             "owner": "SleepWellPupper",
             "repo": "AttributeFactoryGenerator",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         }
       ],
       "title": "Meta - libs and generators for other generators"
@@ -3848,7 +4085,8 @@
             "owner": "lsoft",
             "repo": "DpdtInject",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3863,7 +4101,8 @@
             "owner": "hermanussen",
             "repo": "CompileTimeMethodExecutionGenerator",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3878,7 +4117,8 @@
             "owner": "jakubsturc",
             "repo": "talk-csharp-source-generators",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3893,7 +4133,8 @@
             "owner": "RyanAlameddine",
             "repo": "SourceGeneratorDemo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3908,7 +4149,8 @@
             "owner": "TMC-CSharp",
             "repo": "CodeExerciseLibrary",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         }
       ],
       "title": "Demo, PoC and excercise projects"
@@ -3929,7 +4171,8 @@
             "owner": "canton7",
             "repo": "RestEase",
             "stars": 1116
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3944,7 +4187,8 @@
             "owner": "NetFabric",
             "repo": "NetFabric.Hyperlinq",
             "stars": 901
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3959,7 +4203,8 @@
             "owner": "Stepami",
             "repo": "hydrascript",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3974,7 +4219,8 @@
             "owner": "WarHub",
             "repo": "wham",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -3989,7 +4235,8 @@
             "owner": "tompazourek",
             "repo": "Heroicons.AspNetCore",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         },
         {
           "node_type": "item",
@@ -4004,14 +4251,15 @@
             "owner": "Elskom",
             "repo": "Sdk",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:36:24.704Z"
         }
       ],
       "title": "Projects using custom Source Generators \"internally\""
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:07:26.322Z",
+    "last_updated": "2026-08-28T14:36:24.704Z",
     "original_repository_info": {
       "archived": false,
       "id": 302673564,
@@ -4019,7 +4267,7 @@
       "last_commit": "2026-07-04T11:55:47Z",
       "owner": "amis92",
       "repo": "csharp-source-generators",
-      "stars": 2417
+      "stars": 2418
     },
     "original_repository_sha": "9b17400fe77753cec80e59acbae181afe27e0ec5",
     "enhanced_repository": "enhansome/enhansome-csharp-source-generators",
