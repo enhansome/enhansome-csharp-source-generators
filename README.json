@@ -16,7 +16,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-08-29T02:09:06Z",
-            "open_issues": 6294,
+            "open_issues": 6296,
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20631,
@@ -43,7 +43,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-08-29T02:09:06Z",
-            "open_issues": 6294,
+            "open_issues": 6296,
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20631,
@@ -204,7 +204,7 @@
                 "id": 352249848,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-15T09:33:13Z",
+                "last_commit": "2026-08-29T05:01:40Z",
                 "open_issues": 5,
                 "owner": "DevTeam",
                 "repo": "Pure.DI",
@@ -6764,7 +6764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:29.570Z",
+    "last_updated": "2026-08-29T09:24:22.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.",

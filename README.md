@@ -19,8 +19,8 @@ Add GitHub topic [`csharp-sourcegenerator`](https://github.com/topics/csharp-sou
 
 ## Documentation and samples
 
-* [dotnet/roslyn feature design document](https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.md) ⭐ 20,631 | 🐛 6,294 | 🌐 C# | 📅 2026-08-29 describing the compiler feature.
-* [dotnet/roslyn cookbook](https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.cookbook.md) ⭐ 20,631 | 🐛 6,294 | 🌐 C# | 📅 2026-08-29 to help with generator creation.
+* [dotnet/roslyn feature design document](https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.md) ⭐ 20,631 | 🐛 6,296 | 🌐 C# | 📅 2026-08-29 describing the compiler feature.
+* [dotnet/roslyn cookbook](https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.cookbook.md) ⭐ 20,631 | 🐛 6,296 | 🌐 C# | 📅 2026-08-29 to help with generator creation.
 * [dotnet/roslyn-sdk samples](https://github.com/dotnet/roslyn-sdk/tree/main/samples/CSharp/SourceGenerators) ⚠️ Archived show how to implement a source generator and use features like external package references (*inside* generators). Includes AutoNotify, Csv, Maths, Mustache, and SettingsXml.
 * [davidwengier/SourceGeneratorTemplate](https://github.com/davidwengier/SourceGeneratorTemplate) ⭐ 188 | 🐛 2 | 🌐 C# | 📅 2022-03-27 -![stars](https://img.shields.io/github/stars/davidwengier/SourceGeneratorTemplate?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidwengier/SourceGeneratorTemplate?style=flat-square\&cacheSeconds=86400) A basic template for writing a C# source generator, from the Roslyn dev.
 * [SourceGeneratorPlayground](https://wengier.com/SourceGeneratorPlayground) - an online Source Generator Playground to play with generator ideas 💡 without any setup noise. [Source repo](https://github.com/davidwengier/SourceGeneratorPlayground) ⭐ 151 | 🐛 5 | 🌐 C# | 📅 2021-08-18.
@@ -78,7 +78,7 @@ Add GitHub topic [`csharp-sourcegenerator`](https://github.com/topics/csharp-sou
 
 * [Jab](https://github.com/pakrym/jab) ⭐ 1,256 | 🐛 21 | 🌐 C# | 📅 2025-09-12 -![stars](https://img.shields.io/github/stars/pakrym/jab?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/pakrym/jab?style=flat-square\&cacheSeconds=86400) - Compile Time Dependency Injection
 * [StrongInject](https://github.com/YairHalberstadt/stronginject) ⭐ 868 | 🐛 20 | 🌐 C# | 📅 2025-06-30 -![stars](https://img.shields.io/github/stars/YairHalberstadt/stronginject?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/YairHalberstadt/stronginject?style=flat-square\&cacheSeconds=86400) - compile time dependency injection for .NET.
-* [Pure.DI](https://github.com/DevTeam/Pure.DI) ⭐ 841 | 🐛 5 | 🌐 C# | 📅 2026-08-15 - ![stars](https://img.shields.io/github/stars/DevTeam/Pure.DI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevTeam/Pure.DI?style=flat-square\&cacheSeconds=86400) - dependency injection for .NET without any IoC/DI containers, frameworks, dependencies, and thus without any performance impact and side-effects.
+* [Pure.DI](https://github.com/DevTeam/Pure.DI) ⭐ 841 | 🐛 5 | 🌐 C# | 📅 2026-08-29 - ![stars](https://img.shields.io/github/stars/DevTeam/Pure.DI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevTeam/Pure.DI?style=flat-square\&cacheSeconds=86400) - dependency injection for .NET without any IoC/DI containers, frameworks, dependencies, and thus without any performance impact and side-effects.
 * [Injectio](https://github.com/loresoft/Injectio) ⭐ 248 | 🐛 4 | 🌐 C# | 📅 2026-08-27 - ![stars](https://img.shields.io/github/stars/loresoft/Injectio?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/loresoft/Injectio?style=flat-square\&cacheSeconds=86400) - Source generator that helps register discovered services in the dependency injection container
 * [ServiceScan.SourceGenerator](https://github.com/Dreamescaper/ServiceScan.SourceGenerator) ⭐ 153 | 🐛 0 | 🌐 C# | 📅 2026-07-25 - ![stars](https://img.shields.io/github/stars/Dreamescaper/ServiceScan.SourceGenerator?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Dreamescaper/ServiceScan.SourceGenerator?style=flat-square\&cacheSeconds=86400) Type scanning source generator for `Microsoft.Extensions.DependencyInjection` services registrations inspired by [Scrutor](https://github.com/khellang/Scrutor/) ⭐ 4,336 | 🐛 44 | 🌐 C# | 📅 2026-01-23.
 * [AutoRegisterInject](https://github.com/patrickklaeren/AutoRegisterInject) ⭐ 140 | 🐛 2 | 🌐 C# | 📅 2026-06-24 - ![stars](https://img.shields.io/github/stars/patrickklaeren/AutoRegisterInject?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/patrickklaeren/AutoRegisterInject?style=flat-square\&cacheSeconds=86400) Automatically generate Microsoft Dependency Injection ServiceCollection registrations for your classes from attributes.
@@ -249,7 +249,7 @@ Add GitHub topic [`csharp-sourcegenerator`](https://github.com/topics/csharp-sou
 * [Immediate.Handlers](https://github.com/immediateplatform/Immediate.Handlers) ⭐ 198 | 🐛 9 | 🌐 C# | 📅 2026-08-14 -![stars](https://img.shields.io/github/stars/immediateplatform/Immediate.Handlers?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/immediateplatform/Immediate.Handlers?style=flat-square\&cacheSeconds=86400) The [fastest](https://github.com/immediateplatform/MediatorBenchmarks) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-07-15 source generator implementation of the Mediator pattern in .NET, without using a central mediator instance.
 * [DumplingsDevs.Pipelines](https://github.com/DumplingsDevs/Pipelines) ⭐ 46 | 🐛 0 | 🌐 C# | 📅 2023-10-20 - ![stars](https://img.shields.io/github/stars/DumplingsDevs/Pipelines?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DumplingsDevs/Pipelines?style=flat-square\&cacheSeconds=604800) The most flexible mediation implementation in the .NET ecosystem with your own types.
 * [Foundatio Mediator](https://github.com/FoundatioFx/Foundatio.Mediator) ⭐ 40 | 🐛 2 | 🌐 C# | 📅 2026-08-28 -![stars](https://img.shields.io/github/stars/FoundatioFx/Foundatio.Mediator?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/FoundatioFx/Foundatio.Mediator?style=flat-square\&cacheSeconds=86400) - Blazingly fast, convention-based C# mediator powered by source generators and interceptors.
-* [MediatR controllers generator](https://github.com/Burgyn/MMLib.MediatR.Generators) ⭐ 37 | 🐛 1 | 🌐 C# | 📅 2023-05-02 -![stars](https://img.shields.io/github/stars/Burgyn/MMLib.MediatR.Generators?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Burgyn/MMLib.MediatR.Generators?style=flat-square\&cacheSeconds=86400) This generator generates controllers and their methods based on your [MediatR](https://github.com/jbogard/MediatR) ⭐ 11,858 | 🐛 2 | 🌐 C# | 📅 2026-07-02 requests.
+* [MediatR controllers generator](https://github.com/Burgyn/MMLib.MediatR.Generators) ⭐ 37 | 🐛 1 | 🌐 C# | 📅 2023-05-02 -![stars](https://img.shields.io/github/stars/Burgyn/MMLib.MediatR.Generators?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Burgyn/MMLib.MediatR.Generators?style=flat-square\&cacheSeconds=86400) This generator generates controllers and their methods based on your [MediatR](https://github.com/jbogard/MediatR) ⭐ 11,857 | 🐛 2 | 🌐 C# | 📅 2026-07-02 requests.
 
 #### Command
 
@@ -455,7 +455,7 @@ Collection of tips and tricks (simple and brief to fit in Tweet):
 >
 > If you're building Roslyn Source Generators or Analyzers check it out, it makes debugging them inside the compiler easier. #roslyn #csharp #dotnetcore #sourcegenerators #analyzers
 
-Build failed in WPF projects [microsoft/CsWin32#7](https://github.com/microsoft/CsWin32/issues/7) ⭐ 2,516 | 🐛 125 | 🌐 C# | 📅 2026-08-28:
+Build failed in WPF projects [microsoft/CsWin32#7](https://github.com/microsoft/CsWin32/issues/7) ⭐ 2,517 | 🐛 125 | 🌐 C# | 📅 2026-08-28:
 
 > If your build failed in a *\_wpftmp.csproj file you need to add following property to your (*.csproj) project file:
 >
@@ -477,7 +477,7 @@ Build failed in WPF projects [microsoft/CsWin32#7](https://github.com/microsoft/
 
 [#analyzers]: https://twitter.com/hashtag/analyzers?src=hashtag_click
 
-Reference local projects or embed NuGet packages to source generator assemblies [dotnet/roslyn#47517](https://github.com/dotnet/roslyn/discussions/47517#discussioncomment-64145) ⭐ 20,631 | 🐛 6,294 | 🌐 C# | 📅 2026-08-29:
+Reference local projects or embed NuGet packages to source generator assemblies [dotnet/roslyn#47517](https://github.com/dotnet/roslyn/discussions/47517#discussioncomment-64145) ⭐ 20,631 | 🐛 6,296 | 🌐 C# | 📅 2026-08-29:
 
 ⚠ Please be aware that this may result in crashes, when another generator or SDK component loads such an assembly with lower version. If you can, please avoid embedding additional DLLs/packages.
 
