@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:09:06Z",
-            "open_issues": 6296,
+            "last_commit": "2026-08-30T02:30:00Z",
+            "open_issues": 6295,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20631,
+            "stars": 20632,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -42,11 +42,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:09:06Z",
-            "open_issues": 6296,
+            "last_commit": "2026-08-30T02:30:00Z",
+            "open_issues": 6295,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20631,
+            "stars": 20632,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -208,7 +208,7 @@
                 "open_issues": 5,
                 "owner": "DevTeam",
                 "repo": "Pure.DI",
-                "stars": 841,
+                "stars": 840,
                 "topics": [
                   "avalonia",
                   "composition",
@@ -597,7 +597,7 @@
                 "open_issues": 13,
                 "owner": "Cysharp",
                 "repo": "ConsoleAppFramework",
-                "stars": 2215,
+                "stars": 2214,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:24.704Z"
@@ -668,7 +668,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-07-07T09:28:46Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "jeppevammenkristensen",
                 "repo": "auto-spectre",
                 "stars": 30,
@@ -733,7 +733,7 @@
                 "open_issues": 69,
                 "owner": "riok",
                 "repo": "mapperly",
-                "stars": 4153,
+                "stars": 4155,
                 "topics": [
                   "c-sharp",
                   "csharp",
@@ -820,7 +820,7 @@
                 "open_issues": 0,
                 "owner": "lofcz",
                 "repo": "FastCloner",
-                "stars": 368,
+                "stars": 369,
                 "topics": [
                   "aot",
                   "c-sharp",
@@ -1571,7 +1571,7 @@
                     "open_issues": 27,
                     "owner": "andrewlock",
                     "repo": "StronglyTypedId",
-                    "stars": 1752,
+                    "stars": 1750,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:36:24.704Z"
@@ -1621,7 +1621,7 @@
                     "open_issues": 2,
                     "owner": "diegofrata",
                     "repo": "Generator.Equals",
-                    "stars": 193,
+                    "stars": 192,
                     "topics": [
                       "csharp",
                       "csharp-sourcegenerator",
@@ -1843,7 +1843,7 @@
                     "open_issues": 7,
                     "owner": "domn1995",
                     "repo": "dunet",
-                    "stars": 883,
+                    "stars": 882,
                     "topics": [
                       "csharp",
                       "csharp-sourcegenerator",
@@ -2081,8 +2081,8 @@
                 "id": 289760110,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-27T15:49:30Z",
-                "open_issues": 11,
+                "last_commit": "2026-08-30T07:19:26Z",
+                "open_issues": 12,
                 "owner": "sveinungf",
                 "repo": "spreadcheetah",
                 "stars": 698,
@@ -2824,7 +2824,7 @@
                     "id": 30542524,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-19T12:55:02Z",
+                    "last_commit": "2026-08-29T15:04:04Z",
                     "open_issues": 28,
                     "owner": "JasonBock",
                     "repo": "Rocks",
@@ -3219,7 +3219,7 @@
                     "open_issues": 39,
                     "owner": "martinothamar",
                     "repo": "Mediator",
-                    "stars": 3699,
+                    "stars": 3702,
                     "topics": [
                       "csharp",
                       "csharp-sourcegenerator",
@@ -6698,7 +6698,7 @@
             "id": 52120725,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-17T02:51:14Z",
+            "last_commit": "2026-08-29T10:42:38Z",
             "open_issues": 47,
             "owner": "WarHub",
             "repo": "wham",
@@ -6764,7 +6764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:24:22.537Z",
+    "last_updated": "2026-08-30T08:33:10.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.",
@@ -6776,7 +6776,7 @@
       "open_issues": 3,
       "owner": "amis92",
       "repo": "csharp-source-generators",
-      "stars": 2418,
+      "stars": 2417,
       "topics": [
         "awesome-list",
         "csharp",
