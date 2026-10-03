@@ -729,8 +729,8 @@
                 "id": 459090159,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T04:38:01Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-03T04:53:18Z",
+                "open_issues": 75,
                 "owner": "riok",
                 "repo": "mapperly",
                 "stars": 4177,
@@ -1143,7 +1143,7 @@
                 "open_issues": 44,
                 "owner": "Sergio0694",
                 "repo": "ComputeSharp",
-                "stars": 3174,
+                "stars": 3175,
                 "topics": [
                   "computing",
                   "csharp",
@@ -2136,7 +2136,7 @@
                 "id": 350569181,
                 "language": "C#",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T04:39:16Z",
+                "last_commit": "2026-10-03T06:49:52Z",
                 "open_issues": 11,
                 "owner": "serdedotnet",
                 "repo": "serde",
@@ -2433,8 +2433,8 @@
                     "id": 696463074,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T08:05:48Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-03T08:05:13Z",
+                    "open_issues": 2,
                     "owner": "aviationexam",
                     "repo": "json-converter-source-generator",
                     "stars": 5,
@@ -3762,7 +3762,7 @@
                 "open_issues": 0,
                 "owner": "altasoft",
                 "repo": "DomainPrimitives",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "ddd",
                   "domain",
@@ -5369,7 +5369,7 @@
                 "open_issues": 8,
                 "owner": "Nyrest",
                 "repo": "FastGenericNew",
-                "stars": 280,
+                "stars": 281,
                 "topics": [
                   "activator",
                   "createinstance",
@@ -6786,7 +6786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:39:36.575Z",
+    "last_updated": "2026-10-03T08:34:59.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.",
