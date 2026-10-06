@@ -2433,8 +2433,8 @@
                     "id": 696463074,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T08:13:22Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-06T09:53:36Z",
+                    "open_issues": 2,
                     "owner": "aviationexam",
                     "repo": "json-converter-source-generator",
                     "stars": 5,
@@ -3515,8 +3515,8 @@
                     "id": 295814700,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T10:25:05Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-10-06T10:23:12Z",
+                    "open_issues": 8,
                     "owner": "devlooped",
                     "repo": "stunts",
                     "stars": 141,
@@ -6786,7 +6786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:27:17.253Z",
+    "last_updated": "2026-10-06T11:02:15.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.",
