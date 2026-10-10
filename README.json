@@ -15,8 +15,8 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-09T09:18:56Z",
-            "open_issues": 6686,
+            "last_commit": "2026-10-10T07:44:40Z",
+            "open_issues": 6692,
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20715,
@@ -42,8 +42,8 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-09T09:18:56Z",
-            "open_issues": 6686,
+            "last_commit": "2026-10-10T07:44:40Z",
+            "open_issues": 6692,
             "owner": "dotnet",
             "repo": "roslyn",
             "stars": 20715,
@@ -73,7 +73,7 @@
             "open_issues": 184,
             "owner": "dotnet",
             "repo": "roslyn-sdk",
-            "stars": 545,
+            "stars": 543,
             "topics": [
               "roslyn",
               "sdk"
@@ -151,7 +151,7 @@
                 "open_issues": 23,
                 "owner": "pakrym",
                 "repo": "jab",
-                "stars": 1253,
+                "stars": 1252,
                 "topics": [
                   "dependency-injection",
                   "microsoft-extensions",
@@ -179,7 +179,7 @@
                 "open_issues": 20,
                 "owner": "YairHalberstadt",
                 "repo": "stronginject",
-                "stars": 868,
+                "stars": 866,
                 "topics": [
                   "csharp",
                   "csharp-sourcegenerator",
@@ -208,7 +208,7 @@
                 "open_issues": 9,
                 "owner": "DevTeam",
                 "repo": "Pure.DI",
-                "stars": 847,
+                "stars": 846,
                 "topics": [
                   "avalonia",
                   "composition",
@@ -321,7 +321,7 @@
                 "id": 512087796,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-09T04:20:35Z",
+                "last_commit": "2026-10-10T01:16:40Z",
                 "open_issues": 1,
                 "owner": "distantcam",
                 "repo": "AutoCtor",
@@ -597,7 +597,7 @@
                 "open_issues": 12,
                 "owner": "Cysharp",
                 "repo": "ConsoleAppFramework",
-                "stars": 2226,
+                "stars": 2225,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:24.704Z"
@@ -618,7 +618,7 @@
                 "open_issues": 5,
                 "owner": "drewnoakes",
                 "repo": "figgle",
-                "stars": 494,
+                "stars": 493,
                 "topics": [
                   "ascii-art",
                   "ascii-fonts",
@@ -706,7 +706,7 @@
                 "open_issues": 82,
                 "owner": "MapsterMapper",
                 "repo": "Mapster",
-                "stars": 5174,
+                "stars": 5173,
                 "topics": [
                   "c-sharp",
                   "codegenerator",
@@ -733,7 +733,7 @@
                 "open_issues": 79,
                 "owner": "riok",
                 "repo": "mapperly",
-                "stars": 4180,
+                "stars": 4182,
                 "topics": [
                   "c-sharp",
                   "csharp",
@@ -762,7 +762,7 @@
                 "open_issues": 14,
                 "owner": "Tim-Maes",
                 "repo": "Facet",
-                "stars": 1208,
+                "stars": 1207,
                 "topics": [
                   "facet",
                   "generator",
@@ -791,7 +791,7 @@
                 "open_issues": 14,
                 "owner": "Tim-Maes",
                 "repo": "Facet",
-                "stars": 1208,
+                "stars": 1207,
                 "topics": [
                   "facet",
                   "generator",
@@ -1060,10 +1060,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-28T10:13:00Z",
-                "open_issues": 400,
+                "open_issues": 401,
                 "owner": "CoreWCF",
                 "repo": "CoreWCF",
-                "stars": 1776,
+                "stars": 1777,
                 "topics": [
                   "corewcf",
                   "wcf"
@@ -1246,7 +1246,7 @@
                 "open_issues": 16,
                 "owner": "EngRajabi",
                 "repo": "Enum.Source.Generator",
-                "stars": 198,
+                "stars": 199,
                 "topics": [
                   "codegeneration",
                   "codegenerator",
@@ -1407,7 +1407,7 @@
                 "id": 562318498,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-08T16:01:35Z",
+                "last_commit": "2026-10-09T13:38:44Z",
                 "open_issues": 1,
                 "owner": "credfeto",
                 "repo": "credfeto-enum-source-generation",
@@ -2030,7 +2030,7 @@
                 "id": 81770291,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T12:11:48Z",
+                "last_commit": "2026-10-09T12:03:27Z",
                 "open_issues": 151,
                 "owner": "MessagePack-CSharp",
                 "repo": "MessagePack-CSharp",
@@ -2060,8 +2060,8 @@
                 "id": 20878802,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:59:16Z",
-                "open_issues": 541,
+                "last_commit": "2026-10-09T14:45:48Z",
+                "open_issues": 540,
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
                 "stars": 4972,
@@ -2433,8 +2433,8 @@
                     "id": 696463074,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T08:07:40Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-10T08:05:33Z",
+                    "open_issues": 3,
                     "owner": "aviationexam",
                     "repo": "json-converter-source-generator",
                     "stars": 5,
@@ -2596,7 +2596,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-04T16:36:57Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "Hookyns",
                 "repo": "validly",
                 "stars": 58,
@@ -2845,7 +2845,7 @@
                     "id": 30542524,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T12:48:52Z",
+                    "last_commit": "2026-10-09T21:14:22Z",
                     "open_issues": 31,
                     "owner": "JasonBock",
                     "repo": "Rocks",
@@ -3022,11 +3022,11 @@
                   "repo_info": {
                     "archived": false,
                     "description": "A fast, strict, and strongly-typed data generator (faker) for C# powered by Source Generators.  Forged allows you to declaratively define how your models should be faked, leveraging the C# compiler to enforce required properties, nullability, and type-safety.",
-                    "homepage": null,
+                    "homepage": "https://atulin.github.io/Forged/",
                     "id": 1261688030,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-09-27T02:23:31Z",
+                    "last_commit": "2026-10-10T01:14:47Z",
                     "open_issues": 1,
                     "owner": "Atulin",
                     "repo": "Forged",
@@ -3100,7 +3100,7 @@
                 "open_issues": 7,
                 "owner": "CollinAlpert",
                 "repo": "Lombok.NET",
-                "stars": 340,
+                "stars": 339,
                 "topics": [
                   "csharp",
                   "csharp-sourcegenerator",
@@ -3240,7 +3240,7 @@
                     "open_issues": 44,
                     "owner": "martinothamar",
                     "repo": "Mediator",
-                    "stars": 3736,
+                    "stars": 3737,
                     "topics": [
                       "csharp",
                       "csharp-sourcegenerator",
@@ -3515,8 +3515,8 @@
                     "id": 295814700,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T23:20:16Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-09T10:25:12Z",
+                    "open_issues": 4,
                     "owner": "devlooped",
                     "repo": "stunts",
                     "stars": 141,
@@ -4578,7 +4578,7 @@
                     "open_issues": 218,
                     "owner": "CommunityToolkit",
                     "repo": "dotnet",
-                    "stars": 3763,
+                    "stars": 3762,
                     "topics": [
                       "csharp",
                       "dotnet",
@@ -5338,8 +5338,8 @@
                 "id": 300154250,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-08T13:48:30Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-10T00:46:27Z",
+                "open_issues": 3,
                 "owner": "devlooped",
                 "repo": "SmallSharp",
                 "stars": 309,
@@ -5447,6 +5447,34 @@
             },
             {
               "node_type": "item",
+              "title": "CsCodeGenerator",
+              "description": "Easy C# class and code generation, POCO object and Methods creation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Easy C# class and code generation, POCO object and Methods creation",
+                "homepage": null,
+                "id": 82320174,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2025-03-17T15:18:16Z",
+                "open_issues": 2,
+                "owner": "borisdj",
+                "repo": "CsCodeGenerator",
+                "stars": 117,
+                "topics": [
+                  "class",
+                  "code",
+                  "codecreator",
+                  "codegenerator",
+                  "generator",
+                  "poco"
+                ]
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
+            },
+            {
+              "node_type": "item",
               "title": "AutomaticInterface",
               "description": "Generate an Interface from a class.",
               "children": [],
@@ -5464,34 +5492,6 @@
                 "stars": 116,
                 "topics": [
                   "csharp-sourcegenerator"
-                ]
-              },
-              "first_seen": "2026-08-28T14:36:24.704Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CsCodeGenerator",
-              "description": "Easy C# class and code generation, POCO object and Methods creation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Easy C# class and code generation, POCO object and Methods creation",
-                "homepage": null,
-                "id": 82320174,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2025-03-17T15:18:16Z",
-                "open_issues": 2,
-                "owner": "borisdj",
-                "repo": "CsCodeGenerator",
-                "stars": 116,
-                "topics": [
-                  "class",
-                  "code",
-                  "codecreator",
-                  "codegenerator",
-                  "generator",
-                  "poco"
                 ]
               },
               "first_seen": "2026-08-28T14:36:24.704Z"
@@ -6147,7 +6147,7 @@
                 "id": 873588553,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-08T16:02:10Z",
+                "last_commit": "2026-10-09T13:39:36Z",
                 "open_issues": 2,
                 "owner": "credfeto",
                 "repo": "credfeto-version-constants-generator",
@@ -6786,7 +6786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T09:40:16.587Z",
+    "last_updated": "2026-10-10T09:06:20.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.",
@@ -6798,7 +6798,7 @@
       "open_issues": 7,
       "owner": "amis92",
       "repo": "csharp-source-generators",
-      "stars": 2415,
+      "stars": 2414,
       "topics": [
         "awesome-list",
         "csharp",
