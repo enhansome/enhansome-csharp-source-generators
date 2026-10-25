@@ -19,7 +19,7 @@
             "open_issues": 6744,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20751,
+            "stars": 20754,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -46,7 +46,7 @@
             "open_issues": 6744,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20751,
+            "stars": 20754,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -151,7 +151,7 @@
                 "open_issues": 23,
                 "owner": "pakrym",
                 "repo": "jab",
-                "stars": 1253,
+                "stars": 1252,
                 "topics": [
                   "dependency-injection",
                   "microsoft-extensions",
@@ -208,7 +208,7 @@
                 "open_issues": 6,
                 "owner": "DevTeam",
                 "repo": "Pure.DI",
-                "stars": 847,
+                "stars": 846,
                 "topics": [
                   "avalonia",
                   "composition",
@@ -322,7 +322,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-20T23:56:25Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "distantcam",
                 "repo": "AutoCtor",
                 "stars": 114,
@@ -597,7 +597,7 @@
                 "open_issues": 14,
                 "owner": "Cysharp",
                 "repo": "ConsoleAppFramework",
-                "stars": 2227,
+                "stars": 2226,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:24.704Z"
@@ -706,7 +706,7 @@
                 "open_issues": 84,
                 "owner": "MapsterMapper",
                 "repo": "Mapster",
-                "stars": 5182,
+                "stars": 5180,
                 "topics": [
                   "c-sharp",
                   "codegenerator",
@@ -762,7 +762,7 @@
                 "open_issues": 23,
                 "owner": "Tim-Maes",
                 "repo": "Facet",
-                "stars": 1206,
+                "stars": 1205,
                 "topics": [
                   "facet",
                   "generator",
@@ -791,7 +791,7 @@
                 "open_issues": 23,
                 "owner": "Tim-Maes",
                 "repo": "Facet",
-                "stars": 1206,
+                "stars": 1205,
                 "topics": [
                   "facet",
                   "generator",
@@ -1180,7 +1180,7 @@
                 "id": 216883277,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-22T22:31:07Z",
+                "last_commit": "2026-10-24T20:43:56Z",
                 "open_issues": 6,
                 "owner": "wieslawsoltes",
                 "repo": "Svg.Skia",
@@ -1222,7 +1222,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-05-11T21:06:17Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "andrewlock",
                 "repo": "NetEscapades.EnumGenerators",
                 "stars": 1125,
@@ -1407,7 +1407,7 @@
                 "id": 562318498,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-23T14:55:23Z",
+                "last_commit": "2026-10-24T09:28:26Z",
                 "open_issues": 3,
                 "owner": "credfeto",
                 "repo": "credfeto-enum-source-generation",
@@ -1592,7 +1592,7 @@
                     "open_issues": 61,
                     "owner": "SteveDunn",
                     "repo": "Vogen",
-                    "stars": 1506,
+                    "stars": 1507,
                     "topics": [
                       "contributions-welcome",
                       "csharp-sourcegenerator",
@@ -2030,11 +2030,11 @@
                 "id": 81770291,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T11:20:41Z",
-                "open_issues": 152,
+                "last_commit": "2026-10-24T13:07:07Z",
+                "open_issues": 151,
                 "owner": "MessagePack-CSharp",
                 "repo": "MessagePack-CSharp",
-                "stars": 6800,
+                "stars": 6801,
                 "topics": [
                   "c-sharp",
                   "lz4",
@@ -2061,7 +2061,7 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T21:04:10Z",
-                "open_issues": 541,
+                "open_issues": 543,
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
                 "stars": 4977,
@@ -3240,7 +3240,7 @@
                     "open_issues": 44,
                     "owner": "martinothamar",
                     "repo": "Mediator",
-                    "stars": 3743,
+                    "stars": 3744,
                     "topics": [
                       "csharp",
                       "csharp-sourcegenerator",
@@ -3800,7 +3800,7 @@
                 "open_issues": 4,
                 "owner": "sebastienros",
                 "repo": "comptime",
-                "stars": 576,
+                "stars": 575,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:24.704Z"
@@ -6147,7 +6147,7 @@
                 "id": 873588553,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-23T15:02:26Z",
+                "last_commit": "2026-10-24T09:35:17Z",
                 "open_issues": 2,
                 "owner": "credfeto",
                 "repo": "credfeto-version-constants-generator",
@@ -6786,7 +6786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:37:21.657Z",
+    "last_updated": "2026-10-25T07:49:44.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.",
