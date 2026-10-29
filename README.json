@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-28T09:00:41Z",
-            "open_issues": 6748,
+            "last_commit": "2026-10-29T04:45:52Z",
+            "open_issues": 6751,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20759,
+            "stars": 20760,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -42,11 +42,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-28T09:00:41Z",
-            "open_issues": 6748,
+            "last_commit": "2026-10-29T04:45:52Z",
+            "open_issues": 6751,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20759,
+            "stars": 20760,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -204,8 +204,8 @@
                 "id": 352249848,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-27T16:34:52Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-28T17:28:06Z",
+                "open_issues": 6,
                 "owner": "DevTeam",
                 "repo": "Pure.DI",
                 "stars": 846,
@@ -321,7 +321,7 @@
                 "id": 512087796,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-27T04:32:01Z",
+                "last_commit": "2026-10-28T23:59:05Z",
                 "open_issues": 1,
                 "owner": "distantcam",
                 "repo": "AutoCtor",
@@ -597,7 +597,7 @@
                 "open_issues": 4,
                 "owner": "Cysharp",
                 "repo": "ConsoleAppFramework",
-                "stars": 2231,
+                "stars": 2232,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:24.704Z"
@@ -729,11 +729,11 @@
                 "id": 459090159,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T17:54:05Z",
-                "open_issues": 62,
+                "last_commit": "2026-10-28T14:13:32Z",
+                "open_issues": 60,
                 "owner": "riok",
                 "repo": "mapperly",
-                "stars": 4199,
+                "stars": 4200,
                 "topics": [
                   "c-sharp",
                   "csharp",
@@ -762,7 +762,7 @@
                 "open_issues": 20,
                 "owner": "Tim-Maes",
                 "repo": "Facet",
-                "stars": 1205,
+                "stars": 1206,
                 "topics": [
                   "facet",
                   "generator",
@@ -791,7 +791,7 @@
                 "open_issues": 20,
                 "owner": "Tim-Maes",
                 "repo": "Facet",
-                "stars": 1205,
+                "stars": 1206,
                 "topics": [
                   "facet",
                   "generator",
@@ -1059,7 +1059,7 @@
                 "id": 185841694,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-26T11:29:25Z",
+                "last_commit": "2026-10-28T20:27:46Z",
                 "open_issues": 403,
                 "owner": "CoreWCF",
                 "repo": "CoreWCF",
@@ -1368,6 +1368,36 @@
             },
             {
               "node_type": "item",
+              "title": "Credfeto.Enumeration.Source.Generation",
+              "description": "Enum to text generator for enums - generates strongly typed enums for all enums in the assembly, and using attribute for third party enums. Also includes an analyzer to ensure that all enum usages use the extension method rather than .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "C# source generator for producing faster enum lookups",
+                "homepage": null,
+                "id": 562318498,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-10-27T21:25:43Z",
+                "open_issues": 3,
+                "owner": "credfeto",
+                "repo": "credfeto-enum-source-generation",
+                "stars": 24,
+                "topics": [
+                  "code-analysis",
+                  "code-generation",
+                  "code-generator",
+                  "csharp-sourcegenerator",
+                  "dotnet",
+                  "generator",
+                  "optimization",
+                  "performance"
+                ]
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
+            },
+            {
+              "node_type": "item",
               "title": "EnumUtilitiesGenerator",
               "description": "- A source generator to generate compile-time mapping of enums and description attributes.",
               "children": [],
@@ -1391,36 +1421,6 @@
                   "enumeration",
                   "roslyn",
                   "sourcegenerator"
-                ]
-              },
-              "first_seen": "2026-08-28T14:36:24.704Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Credfeto.Enumeration.Source.Generation",
-              "description": "Enum to text generator for enums - generates strongly typed enums for all enums in the assembly, and using attribute for third party enums. Also includes an analyzer to ensure that all enum usages use the extension method rather than .",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "C# source generator for producing faster enum lookups",
-                "homepage": null,
-                "id": 562318498,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-10-27T21:25:43Z",
-                "open_issues": 3,
-                "owner": "credfeto",
-                "repo": "credfeto-enum-source-generation",
-                "stars": 23,
-                "topics": [
-                  "code-analysis",
-                  "code-generation",
-                  "code-generator",
-                  "csharp-sourcegenerator",
-                  "dotnet",
-                  "generator",
-                  "optimization",
-                  "performance"
                 ]
               },
               "first_seen": "2026-08-28T14:36:24.704Z"
@@ -2030,11 +2030,11 @@
                 "id": 81770291,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T06:58:36Z",
+                "last_commit": "2026-10-29T03:28:46Z",
                 "open_issues": 151,
                 "owner": "MessagePack-CSharp",
                 "repo": "MessagePack-CSharp",
-                "stars": 6803,
+                "stars": 6805,
                 "topics": [
                   "c-sharp",
                   "lz4",
@@ -2064,7 +2064,7 @@
                 "open_issues": 544,
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
-                "stars": 4977,
+                "stars": 4976,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:24.704Z"
@@ -2433,8 +2433,8 @@
                     "id": 696463074,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T08:04:29Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-29T08:04:13Z",
+                    "open_issues": 2,
                     "owner": "aviationexam",
                     "repo": "json-converter-source-generator",
                     "stars": 5,
@@ -3240,7 +3240,7 @@
                     "open_issues": 44,
                     "owner": "martinothamar",
                     "repo": "Mediator",
-                    "stars": 3746,
+                    "stars": 3749,
                     "topics": [
                       "csharp",
                       "csharp-sourcegenerator",
@@ -3515,8 +3515,8 @@
                     "id": 295814700,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-27T10:30:48Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-10-28T10:22:58Z",
+                    "open_issues": 4,
                     "owner": "devlooped",
                     "repo": "stunts",
                     "stars": 141,
@@ -3847,7 +3847,7 @@
                 "open_issues": 0,
                 "owner": "krasin-ga",
                 "repo": "matryoshki",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "csharp",
                   "csharp-sourcegenerator",
@@ -4895,7 +4895,7 @@
                 "id": 514586825,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-18T17:15:37Z",
+                "last_commit": "2026-10-28T18:50:23Z",
                 "open_issues": 0,
                 "owner": "LieselThuriot",
                 "repo": "TableStorage",
@@ -5193,7 +5193,7 @@
                 "open_issues": 33,
                 "owner": "Sergio0694",
                 "repo": "PolySharp",
-                "stars": 2243,
+                "stars": 2244,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -6088,6 +6088,34 @@
             },
             {
               "node_type": "item",
+              "title": "Credfeto.Version.Information.Generator",
+              "description": "Minimal source generator for embedding build information as compile time constants. Constants added to class in each assembly for , , and .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Simple version information constants generator",
+                "homepage": null,
+                "id": 873588553,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-10-27T22:44:47Z",
+                "open_issues": 2,
+                "owner": "credfeto",
+                "repo": "credfeto-version-constants-generator",
+                "stars": 6,
+                "topics": [
+                  "code-generation",
+                  "code-generator",
+                  "dotnet",
+                  "generator",
+                  "optimization",
+                  "performance"
+                ]
+              },
+              "first_seen": "2026-08-28T14:36:24.704Z"
+            },
+            {
+              "node_type": "item",
               "title": "MemberAccessGenerator",
               "description": "generates and/or methods that return property value for a given property name or index (e.g. in positional records).",
               "children": [],
@@ -6105,34 +6133,6 @@
                 "stars": 6,
                 "topics": [
                   "csharp-sourcegenerator"
-                ]
-              },
-              "first_seen": "2026-08-28T14:36:24.704Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Credfeto.Version.Information.Generator",
-              "description": "Minimal source generator for embedding build information as compile time constants. Constants added to class in each assembly for , , and .",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simple version information constants generator",
-                "homepage": null,
-                "id": 873588553,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-10-27T22:44:47Z",
-                "open_issues": 2,
-                "owner": "credfeto",
-                "repo": "credfeto-version-constants-generator",
-                "stars": 5,
-                "topics": [
-                  "code-generation",
-                  "code-generator",
-                  "dotnet",
-                  "generator",
-                  "optimization",
-                  "performance"
                 ]
               },
               "first_seen": "2026-08-28T14:36:24.704Z"
@@ -6760,7 +6760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T09:01:09.785Z",
+    "last_updated": "2026-10-29T08:58:04.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.",
