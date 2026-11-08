@@ -15,11 +15,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-07T02:01:18Z",
-            "open_issues": 6734,
+            "last_commit": "2026-11-08T04:27:13Z",
+            "open_issues": 6735,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20765,
+            "stars": 20767,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -42,11 +42,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-07T02:01:18Z",
-            "open_issues": 6734,
+            "last_commit": "2026-11-08T04:27:13Z",
+            "open_issues": 6735,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20765,
+            "stars": 20767,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -597,7 +597,7 @@
                 "open_issues": 2,
                 "owner": "Cysharp",
                 "repo": "ConsoleAppFramework",
-                "stars": 2234,
+                "stars": 2235,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:24.704Z"
@@ -733,7 +733,7 @@
                 "open_issues": 68,
                 "owner": "riok",
                 "repo": "mapperly",
-                "stars": 4202,
+                "stars": 4203,
                 "topics": [
                   "c-sharp",
                   "csharp",
@@ -1180,8 +1180,8 @@
                 "id": 216883277,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-06T13:08:38Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-07T23:08:59Z",
+                "open_issues": 3,
                 "owner": "wieslawsoltes",
                 "repo": "Svg.Skia",
                 "stars": 745,
@@ -3240,7 +3240,7 @@
                     "open_issues": 44,
                     "owner": "martinothamar",
                     "repo": "Mediator",
-                    "stars": 3756,
+                    "stars": 3757,
                     "topics": [
                       "csharp",
                       "csharp-sourcegenerator",
@@ -4552,7 +4552,7 @@
                     "open_issues": 218,
                     "owner": "CommunityToolkit",
                     "repo": "dotnet",
-                    "stars": 3774,
+                    "stars": 3773,
                     "topics": [
                       "csharp",
                       "dotnet",
@@ -6760,7 +6760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T09:17:23.965Z",
+    "last_updated": "2026-11-08T09:35:16.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.",
